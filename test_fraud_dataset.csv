@@ -1,0 +1,11 @@
+Amount,Category,Hospital,FraudFlag
+100,Groceries,General,0
+250,Electronics,CityCare,0
+500,Hospital,BrightCare,1
+700,Travel,General,0
+120,Clothing,Metro,0
+300,Groceries,General,0
+450,Hospital,BrightCare,1
+800,Travel,CityCare,0
+60,Clothing,Metro,0
+150,Electronics,BrightCare,1

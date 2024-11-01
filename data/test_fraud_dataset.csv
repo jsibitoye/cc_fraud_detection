@@ -1,0 +1,1001 @@
+Amount,Merchant,Category,CardType,Location,Time,FraudFlag,HighAmountFlag,IsNightTransaction,MerchantRisk,CardRisk
+161542,Jumia,Healthcare,MasterCard,Uyo,1/27/2024 20:43,0,0,0,1,2
+386931,Jumia,Entertainment,Verve,Lagos,2/15/2024 2:19,0,1,1,1,0
+351808,Electronics,Bills,MasterCard,Kano,1/3/2024 17:54,0,1,0,1,2
+301175,Supermarket,Food,Visa,Enugu,3/24/2024 14:14,0,1,0,2,1
+303996,FuelStation,Healthcare,MasterCard,Jos,4/30/2024 1:01,0,1,1,0,2
+58748,FuelStation,Entertainment,MasterCard,Uyo,4/13/2024 16:23,0,0,0,0,2
+454093,Airtime/Data,Education,MasterCard,Uyo,3/18/2024 12:26,0,1,0,1,2
+414879,Supermarket,Food,Amex,Enugu,4/24/2024 6:33,0,1,0,2,3
+398682,Jumia,Bills,Visa,Lagos,2/8/2024 17:39,1,1,0,1,1
+379876,Hospital,Healthcare,MasterCard,Uyo,4/8/2024 14:30,0,1,0,1,2
+246216,FuelStation,Entertainment,MasterCard,Jos,5/2/2024 17:28,0,0,0,0,2
+256217,Electronics,Food,Visa,Abuja,1/16/2024 7:29,0,0,0,1,1
+461514,FuelStation,Insurance,Verve,Kano,2/23/2024 18:31,0,1,0,0,0
+21157,FuelStation,Healthcare,Amex,Kaduna,3/18/2024 10:19,0,0,0,0,3
+432325,Jumia,Bills,MasterCard,Kaduna,6/7/2024 20:44,0,1,0,1,2
+291538,Hospital,Bills,Amex,Abuja,1/21/2024 14:35,0,0,0,1,3
+197282,Airtime/Data,Entertainment,Verve,Uyo,1/26/2024 12:06,0,0,0,1,0
+158797,Konga,Retail,Verve,Uyo,2/22/2024 17:59,1,0,0,1,0
+92991,FuelStation,Bills,Visa,Port Harcourt,6/20/2024 20:25,0,0,0,0,1
+110899,Electronics,Education,MasterCard,Benin City,3/30/2024 11:36,0,0,0,1,2
+308011,Jumia,Healthcare,MasterCard,Jos,1/24/2024 23:24,0,1,0,1,2
+496318,Electronics,Travel,MasterCard,Port Harcourt,3/20/2024 19:51,0,1,0,1,2
+496467,Supermarket,Education,Visa,Lagos,3/11/2024 4:38,0,1,1,2,1
+309255,Supermarket,Healthcare,MasterCard,Port Harcourt,5/25/2024 8:26,0,1,0,2,2
+371093,Hospital,Education,Amex,Ibadan,3/26/2024 21:31,0,1,0,1,3
+279182,FuelStation,Food,MasterCard,Abuja,3/24/2024 15:29,0,0,0,0,2
+38243,Airtime/Data,Bills,Amex,Jos,3/9/2024 2:15,0,0,1,1,3
+248951,FuelStation,Healthcare,Verve,Lagos,5/18/2024 3:04,0,0,1,0,0
+29859,FuelStation,Insurance,Amex,Abuja,3/19/2024 17:28,0,0,0,0,3
+251309,TravelAgency,Healthcare,Visa,Ibadan,1/11/2024 18:21,0,0,0,3,1
+218128,Jumia,Entertainment,Visa,Jos,5/5/2024 2:59,1,0,1,1,1
+311022,Electronics,Healthcare,Amex,Port Harcourt,3/18/2024 2:13,0,1,1,1,3
+163986,Supermarket,Entertainment,Verve,Abuja,5/24/2024 22:24,0,0,0,2,0
+157305,Hospital,Entertainment,MasterCard,Jos,4/5/2024 21:44,0,0,0,1,2
+459720,Supermarket,Healthcare,Amex,Enugu,4/17/2024 23:16,0,1,0,2,3
+252486,TravelAgency,Bills,MasterCard,Jos,2/12/2024 4:07,0,0,1,3,2
+194964,Konga,Retail,Visa,Abuja,5/1/2024 19:49,0,0,0,1,1
+19065,FuelStation,Insurance,Visa,Abuja,1/18/2024 8:31,0,0,0,0,1
+276473,Electronics,Bills,Visa,Enugu,3/25/2024 11:41,0,0,0,1,1
+352208,Hospital,Food,MasterCard,Jos,1/30/2024 18:57,0,1,0,1,2
+25568,Konga,Food,Visa,Kano,2/15/2024 15:07,0,0,0,1,1
+77794,Supermarket,Healthcare,Visa,Port Harcourt,1/18/2024 2:29,0,0,1,2,1
+382973,Hospital,Insurance,Visa,Enugu,1/27/2024 17:29,0,1,0,1,1
+260751,Hospital,Food,Visa,Jos,1/31/2024 8:20,0,0,0,1,1
+173646,Konga,Healthcare,Visa,Lagos,2/26/2024 16:27,0,0,0,1,1
+264389,Airtime/Data,Insurance,Verve,Kaduna,3/12/2024 17:36,0,0,0,1,0
+372743,Supermarket,Education,Verve,Lagos,3/24/2024 12:51,0,1,0,2,0
+466833,TravelAgency,Retail,Verve,Abuja,1/5/2024 6:04,0,1,0,3,0
+140204,Konga,Food,Verve,Ibadan,5/22/2024 13:23,0,0,0,1,0
+317448,FuelStation,Insurance,Amex,Enugu,1/11/2024 0:38,0,1,1,0,3
+450046,Electronics,Bills,Amex,Uyo,3/19/2024 7:18,0,1,0,1,3
+143280,Jumia,Education,MasterCard,Uyo,4/17/2024 15:57,0,0,0,1,2
+4580,TravelAgency,Travel,Verve,Jos,4/23/2024 14:53,0,0,0,3,0
+161165,Airtime/Data,Travel,Verve,Lagos,4/26/2024 17:28,0,0,0,1,0
+440118,FuelStation,Entertainment,Amex,Uyo,3/2/2024 20:45,0,1,0,0,3
+335144,Hospital,Insurance,Visa,Uyo,5/3/2024 18:20,0,1,0,1,1
+34089,Konga,Insurance,Visa,Ibadan,1/31/2024 23:42,0,0,0,1,1
+235916,Electronics,Travel,Visa,Abuja,5/6/2024 1:18,0,0,1,1,1
+231187,TravelAgency,Education,Verve,Benin City,3/17/2024 12:22,0,0,0,3,0
+470961,TravelAgency,Entertainment,Visa,Kano,6/12/2024 21:30,0,1,0,3,1
+226994,Jumia,Entertainment,MasterCard,Kano,3/13/2024 23:23,0,0,0,1,2
+374913,Supermarket,Retail,Amex,Ibadan,1/11/2024 13:50,0,1,0,2,3
+219803,Supermarket,Healthcare,Visa,Port Harcourt,1/1/2024 19:49,0,0,0,2,1
+335257,FuelStation,Education,Amex,Benin City,4/17/2024 22:33,0,1,0,0,3
+207316,Electronics,Retail,Visa,Lagos,3/15/2024 19:04,0,0,0,1,1
+179451,Hospital,Education,Amex,Jos,3/18/2024 2:47,0,0,1,1,3
+202434,Airtime/Data,Healthcare,Amex,Abuja,2/17/2024 6:27,0,0,0,1,3
+444809,FuelStation,Entertainment,Verve,Abuja,3/10/2024 18:33,0,1,0,0,0
+398885,TravelAgency,Education,Visa,Kaduna,4/15/2024 13:39,0,1,0,3,1
+458224,Airtime/Data,Retail,Visa,Abuja,5/18/2024 18:17,0,1,0,1,1
+414272,Jumia,Bills,MasterCard,Enugu,2/17/2024 14:08,0,1,0,1,2
+208905,Airtime/Data,Travel,Visa,Kano,3/27/2024 19:07,0,0,0,1,1
+269113,Hospital,Insurance,Amex,Kano,1/15/2024 2:01,0,0,1,1,3
+497336,Jumia,Insurance,Visa,Abuja,4/21/2024 16:49,0,1,0,1,1
+259675,FuelStation,Education,Verve,Benin City,3/28/2024 10:25,0,0,0,0,0
+499612,Konga,Education,Visa,Kano,3/5/2024 15:24,0,1,0,1,1
+239634,FuelStation,Entertainment,Visa,Abuja,1/9/2024 19:10,0,0,0,0,1
+91481,Electronics,Travel,Verve,Lagos,6/11/2024 6:22,0,0,0,1,0
+9659,Jumia,Healthcare,Verve,Lagos,2/19/2024 11:34,0,0,0,1,0
+370556,TravelAgency,Food,Verve,Kaduna,1/9/2024 23:54,0,1,0,3,0
+104863,Konga,Education,MasterCard,Benin City,3/11/2024 17:02,0,0,0,1,2
+489767,Hospital,Education,Amex,Kano,3/7/2024 13:08,0,1,0,1,3
+464481,Electronics,Healthcare,Amex,Lagos,4/3/2024 22:07,0,1,0,1,3
+231882,FuelStation,Travel,Visa,Ibadan,1/19/2024 16:29,0,0,0,0,1
+225988,Hospital,Healthcare,Verve,Benin City,3/25/2024 3:36,0,0,1,1,0
+58534,Electronics,Education,Verve,Kaduna,2/20/2024 2:36,0,0,1,1,0
+316983,TravelAgency,Entertainment,MasterCard,Benin City,1/15/2024 7:41,0,1,0,3,2
+413393,FuelStation,Healthcare,Visa,Lagos,2/25/2024 14:05,0,1,0,0,1
+43670,Hospital,Retail,Visa,Uyo,2/26/2024 10:35,0,0,0,1,1
+219174,TravelAgency,Bills,Amex,Jos,4/22/2024 5:13,0,0,1,3,3
+33433,FuelStation,Retail,MasterCard,Kano,5/14/2024 21:25,0,0,0,0,2
+80860,Konga,Travel,Visa,Jos,4/26/2024 15:17,0,0,0,1,1
+453081,Electronics,Bills,Amex,Port Harcourt,2/9/2024 22:44,0,1,0,1,3
+161670,TravelAgency,Healthcare,Verve,Uyo,5/25/2024 21:58,0,0,0,3,0
+59929,Hospital,Insurance,Visa,Ibadan,2/26/2024 1:21,0,0,1,1,1
+450630,Supermarket,Insurance,Amex,Uyo,4/18/2024 11:40,0,1,0,2,3
+175440,Electronics,Bills,Verve,Enugu,6/8/2024 19:15,1,0,0,1,0
+87405,Supermarket,Food,Amex,Ibadan,3/20/2024 19:16,0,0,0,2,3
+42253,FuelStation,Retail,Amex,Ibadan,1/25/2024 18:52,0,0,0,0,3
+134378,Hospital,Retail,Visa,Kano,4/7/2024 0:57,0,0,1,1,1
+327345,Konga,Retail,Visa,Lagos,6/3/2024 1:20,1,1,1,1,1
+52442,FuelStation,Travel,Visa,Lagos,2/18/2024 7:42,0,0,0,0,1
+190086,Electronics,Insurance,Visa,Benin City,1/23/2024 20:43,0,0,0,1,1
+287175,Electronics,Travel,Verve,Kano,6/9/2024 5:46,0,0,1,1,0
+9075,Hospital,Education,Verve,Jos,5/18/2024 0:41,0,0,1,1,0
+39347,FuelStation,Insurance,Visa,Lagos,4/27/2024 19:45,0,0,0,0,1
+240989,Airtime/Data,Entertainment,MasterCard,Jos,6/8/2024 10:59,1,0,0,1,2
+130380,Hospital,Retail,Amex,Kano,1/10/2024 14:58,0,0,0,1,3
+339843,FuelStation,Entertainment,Verve,Benin City,2/13/2024 19:33,0,1,0,0,0
+71938,FuelStation,Entertainment,Visa,Benin City,5/2/2024 11:25,0,0,0,0,1
+363923,Jumia,Healthcare,MasterCard,Port Harcourt,3/1/2024 19:28,0,1,0,1,2
+480528,Supermarket,Food,MasterCard,Enugu,3/28/2024 4:18,0,1,1,2,2
+157950,Hospital,Insurance,Verve,Kaduna,6/14/2024 19:43,0,0,0,1,0
+67732,Hospital,Healthcare,Amex,Enugu,2/1/2024 15:10,0,0,0,1,3
+64966,Konga,Retail,Visa,Kaduna,5/17/2024 9:41,0,0,0,1,1
+301755,Jumia,Retail,Amex,Abuja,5/20/2024 4:19,0,1,1,1,3
+415223,Supermarket,Entertainment,Verve,Benin City,6/6/2024 8:49,0,1,0,2,0
+494942,Konga,Healthcare,Amex,Uyo,2/1/2024 1:12,0,1,1,1,3
+245966,Airtime/Data,Food,Amex,Port Harcourt,2/24/2024 2:07,0,0,1,1,3
+110291,Supermarket,Healthcare,Verve,Abuja,3/18/2024 6:44,0,0,0,2,0
+40811,Jumia,Insurance,MasterCard,Jos,6/11/2024 14:24,0,0,0,1,2
+348767,Airtime/Data,Food,Amex,Lagos,5/24/2024 8:22,0,1,0,1,3
+26901,Jumia,Travel,Amex,Ibadan,1/5/2024 23:18,0,0,0,1,3
+191031,Jumia,Bills,Verve,Ibadan,1/31/2024 22:20,0,0,0,1,0
+134418,Electronics,Retail,Amex,Enugu,3/6/2024 3:52,0,0,1,1,3
+277681,FuelStation,Entertainment,MasterCard,Benin City,3/10/2024 0:07,1,0,1,0,2
+170564,Electronics,Education,MasterCard,Benin City,1/11/2024 12:36,0,0,0,1,2
+346607,Airtime/Data,Entertainment,Visa,Lagos,1/17/2024 16:18,0,1,0,1,1
+389391,FuelStation,Entertainment,Amex,Abuja,2/5/2024 5:31,0,1,1,0,3
+177735,Konga,Bills,Verve,Abuja,5/15/2024 13:34,0,0,0,1,0
+478891,Airtime/Data,Entertainment,Amex,Kaduna,4/29/2024 3:52,0,1,1,1,3
+229757,Supermarket,Education,Verve,Enugu,1/26/2024 4:14,0,0,1,2,0
+235548,Supermarket,Entertainment,MasterCard,Ibadan,3/22/2024 15:40,1,0,0,2,2
+59957,TravelAgency,Education,MasterCard,Benin City,3/19/2024 12:58,0,0,0,3,2
+342239,FuelStation,Bills,Verve,Abuja,2/1/2024 22:01,0,1,0,0,0
+202771,Airtime/Data,Healthcare,Visa,Lagos,6/14/2024 18:19,0,0,0,1,1
+446008,Hospital,Healthcare,Amex,Ibadan,4/14/2024 20:07,0,1,0,1,3
+429498,Jumia,Bills,MasterCard,Ibadan,4/5/2024 14:52,0,1,0,1,2
+308726,Jumia,Insurance,Amex,Benin City,3/17/2024 18:41,0,1,0,1,3
+161794,Electronics,Retail,Amex,Lagos,2/16/2024 10:13,0,0,0,1,3
+97649,Supermarket,Food,Verve,Benin City,1/28/2024 1:31,0,0,1,2,0
+13119,Hospital,Food,Visa,Kaduna,4/9/2024 1:49,0,0,1,1,1
+34096,Supermarket,Education,Amex,Port Harcourt,2/29/2024 4:39,0,0,1,2,3
+32493,FuelStation,Entertainment,Verve,Benin City,4/4/2024 19:13,0,0,0,0,0
+28396,Supermarket,Travel,MasterCard,Enugu,5/4/2024 21:02,0,0,0,2,2
+231582,Hospital,Insurance,Verve,Benin City,1/21/2024 13:08,0,0,0,1,0
+241816,Electronics,Entertainment,MasterCard,Ibadan,6/7/2024 8:35,0,0,0,1,2
+24363,FuelStation,Travel,Amex,Kaduna,1/26/2024 3:36,1,0,1,0,3
+163709,Jumia,Education,MasterCard,Kaduna,5/9/2024 22:40,0,0,0,1,2
+366044,Airtime/Data,Healthcare,Visa,Kano,1/26/2024 21:23,0,1,0,1,1
+447771,Hospital,Healthcare,Visa,Port Harcourt,1/11/2024 14:32,0,1,0,1,1
+408700,FuelStation,Entertainment,MasterCard,Ibadan,2/29/2024 21:30,0,1,0,0,2
+208778,Jumia,Entertainment,Visa,Kaduna,2/1/2024 11:39,0,0,0,1,1
+280400,Jumia,Bills,Amex,Abuja,6/13/2024 8:03,0,0,0,1,3
+410630,TravelAgency,Food,Verve,Jos,6/18/2024 3:21,0,1,1,3,0
+191176,Jumia,Entertainment,Verve,Abuja,5/29/2024 15:35,0,0,0,1,0
+257030,Airtime/Data,Entertainment,Amex,Jos,6/13/2024 16:30,0,0,0,1,3
+485427,Airtime/Data,Entertainment,Amex,Lagos,4/17/2024 18:24,0,1,0,1,3
+479978,Airtime/Data,Travel,Visa,Abuja,5/10/2024 0:48,0,1,1,1,1
+167239,Jumia,Retail,Amex,Port Harcourt,4/19/2024 16:08,0,0,0,1,3
+309558,FuelStation,Retail,Visa,Enugu,4/3/2024 16:55,0,1,0,0,1
+225128,Konga,Bills,Visa,Jos,2/13/2024 4:10,0,0,1,1,1
+356064,FuelStation,Food,Verve,Port Harcourt,2/8/2024 7:41,0,1,0,0,0
+468281,Konga,Bills,Verve,Lagos,1/1/2024 1:57,0,1,1,1,0
+41643,Electronics,Bills,Verve,Ibadan,1/9/2024 0:26,0,0,1,1,0
+172644,Hospital,Retail,Amex,Port Harcourt,5/20/2024 7:13,0,0,0,1,3
+264769,Konga,Healthcare,MasterCard,Benin City,3/29/2024 11:34,0,0,0,1,2
+105537,Electronics,Retail,Verve,Uyo,2/8/2024 23:37,0,0,0,1,0
+444525,Hospital,Entertainment,Verve,Ibadan,3/16/2024 1:02,0,1,1,1,0
+351639,Konga,Food,Visa,Port Harcourt,3/29/2024 1:27,0,1,1,1,1
+332511,TravelAgency,Healthcare,Visa,Kaduna,5/29/2024 22:21,0,1,0,3,1
+89618,Konga,Bills,Verve,Enugu,2/20/2024 18:42,0,0,0,1,0
+491607,FuelStation,Insurance,MasterCard,Kaduna,5/17/2024 5:18,0,1,1,0,2
+1637,Jumia,Food,Verve,Enugu,1/21/2024 22:37,0,0,0,1,0
+367628,Supermarket,Bills,Amex,Kano,4/2/2024 20:18,0,1,0,2,3
+27467,Electronics,Retail,Amex,Kano,2/3/2024 12:48,1,0,0,1,3
+206502,Konga,Education,Visa,Jos,2/25/2024 6:38,0,0,0,1,1
+155710,Airtime/Data,Insurance,MasterCard,Ibadan,5/15/2024 19:21,0,0,0,1,2
+431549,FuelStation,Retail,Amex,Port Harcourt,5/19/2024 10:43,0,1,0,0,3
+61568,Jumia,Education,Verve,Port Harcourt,5/17/2024 7:37,0,0,0,1,0
+315847,Airtime/Data,Insurance,MasterCard,Enugu,5/5/2024 20:12,0,1,0,1,2
+463441,Electronics,Insurance,Verve,Abuja,1/21/2024 6:48,0,1,0,1,0
+457186,TravelAgency,Entertainment,MasterCard,Uyo,1/25/2024 3:50,0,1,1,3,2
+216702,Electronics,Travel,Amex,Kaduna,3/27/2024 17:03,0,0,0,1,3
+338776,TravelAgency,Food,Verve,Enugu,6/14/2024 14:41,0,1,0,3,0
+98532,Electronics,Education,MasterCard,Abuja,1/1/2024 11:55,0,0,0,1,2
+259396,Airtime/Data,Entertainment,Verve,Port Harcourt,5/12/2024 5:52,0,0,1,1,0
+205316,Airtime/Data,Food,Visa,Port Harcourt,3/13/2024 19:13,0,0,0,1,1
+289791,TravelAgency,Entertainment,Amex,Uyo,6/12/2024 16:39,0,0,0,3,3
+222531,Hospital,Retail,MasterCard,Enugu,4/19/2024 4:52,0,0,1,1,2
+149724,TravelAgency,Retail,Visa,Lagos,3/19/2024 5:43,0,0,1,3,1
+201482,Airtime/Data,Bills,Amex,Abuja,3/15/2024 3:58,0,0,1,1,3
+284453,Hospital,Healthcare,MasterCard,Jos,1/13/2024 21:23,0,0,0,1,2
+286399,Hospital,Insurance,Verve,Jos,2/5/2024 9:52,0,0,0,1,0
+32810,FuelStation,Bills,MasterCard,Kano,5/12/2024 22:16,0,0,0,0,2
+213753,Electronics,Insurance,Verve,Ibadan,4/27/2024 10:48,0,0,0,1,0
+305647,FuelStation,Food,MasterCard,Uyo,1/10/2024 12:14,1,1,0,0,2
+95985,Hospital,Food,Verve,Kano,3/28/2024 9:58,0,0,0,1,0
+32715,Supermarket,Food,MasterCard,Enugu,5/17/2024 3:39,0,0,1,2,2
+16008,Hospital,Healthcare,Verve,Enugu,6/17/2024 8:21,0,0,0,1,0
+332078,Jumia,Entertainment,Amex,Lagos,4/30/2024 8:20,0,1,0,1,3
+458116,Electronics,Insurance,Verve,Lagos,3/29/2024 18:48,0,1,0,1,0
+380343,Jumia,Retail,Visa,Benin City,3/5/2024 6:32,0,1,0,1,1
+27285,Airtime/Data,Healthcare,MasterCard,Lagos,2/2/2024 8:56,0,0,0,1,2
+131395,Konga,Entertainment,Amex,Ibadan,6/7/2024 17:08,0,0,0,1,3
+207916,Supermarket,Food,Visa,Benin City,5/16/2024 21:54,0,0,0,2,1
+50698,Electronics,Retail,MasterCard,Abuja,2/11/2024 8:29,0,0,0,1,2
+246660,Supermarket,Retail,Visa,Jos,2/25/2024 19:02,0,0,0,2,1
+195500,Supermarket,Entertainment,MasterCard,Uyo,2/18/2024 21:45,0,0,0,2,2
+202729,FuelStation,Travel,Visa,Port Harcourt,2/20/2024 9:06,1,0,0,0,1
+150675,Supermarket,Education,Verve,Abuja,3/10/2024 10:42,0,0,0,2,0
+59093,Konga,Food,Amex,Uyo,2/19/2024 15:27,0,0,0,1,3
+484153,Supermarket,Travel,Amex,Enugu,3/31/2024 0:29,0,1,1,2,3
+344681,Airtime/Data,Retail,MasterCard,Kaduna,1/2/2024 20:40,0,1,0,1,2
+327243,Supermarket,Healthcare,Amex,Port Harcourt,1/25/2024 3:54,0,1,1,2,3
+86247,Supermarket,Travel,Visa,Port Harcourt,5/5/2024 14:16,0,0,0,2,1
+189429,Supermarket,Healthcare,Visa,Port Harcourt,1/23/2024 9:29,0,0,0,2,1
+67213,Konga,Education,Verve,Lagos,3/2/2024 14:06,0,0,0,1,0
+439824,FuelStation,Food,MasterCard,Ibadan,1/22/2024 15:30,0,1,0,0,2
+360429,Supermarket,Retail,Visa,Jos,1/12/2024 14:20,0,1,0,2,1
+231827,Supermarket,Insurance,Visa,Enugu,2/17/2024 10:51,0,0,0,2,1
+318936,Hospital,Bills,MasterCard,Abuja,4/26/2024 12:45,0,1,0,1,2
+267497,Jumia,Travel,MasterCard,Abuja,2/18/2024 14:44,0,0,0,1,2
+288580,Supermarket,Retail,Amex,Lagos,2/5/2024 11:08,0,0,0,2,3
+401464,Electronics,Retail,Visa,Ibadan,1/14/2024 20:33,0,1,0,1,1
+370668,Airtime/Data,Healthcare,Visa,Uyo,4/18/2024 19:35,0,1,0,1,1
+305351,FuelStation,Travel,Verve,Abuja,2/7/2024 6:41,0,1,0,0,0
+416138,Hospital,Travel,Visa,Ibadan,6/8/2024 14:39,1,1,0,1,1
+471039,FuelStation,Bills,MasterCard,Lagos,6/6/2024 6:11,0,1,0,0,2
+236576,Hospital,Healthcare,MasterCard,Uyo,6/2/2024 21:26,0,0,0,1,2
+109391,Hospital,Food,Verve,Enugu,4/3/2024 6:09,0,0,0,1,0
+351021,Hospital,Bills,Amex,Port Harcourt,3/11/2024 7:31,0,1,0,1,3
+332548,TravelAgency,Bills,Verve,Ibadan,6/5/2024 18:06,0,1,0,3,0
+126774,Hospital,Travel,Verve,Abuja,2/9/2024 18:18,0,0,0,1,0
+447124,FuelStation,Entertainment,Verve,Jos,3/4/2024 12:05,0,1,0,0,0
+443977,Electronics,Bills,MasterCard,Kano,5/3/2024 13:59,0,1,0,1,2
+206830,FuelStation,Retail,Visa,Uyo,3/25/2024 20:52,0,0,0,0,1
+400826,Jumia,Entertainment,Verve,Kaduna,1/10/2024 19:51,0,1,0,1,0
+420237,Konga,Bills,Verve,Lagos,4/7/2024 0:41,0,1,1,1,0
+288085,Hospital,Retail,Amex,Kano,4/19/2024 18:52,0,0,0,1,3
+351334,Jumia,Insurance,Verve,Kano,4/6/2024 20:29,0,1,0,1,0
+347607,TravelAgency,Insurance,Verve,Port Harcourt,1/24/2024 8:43,0,1,0,3,0
+410107,FuelStation,Bills,Verve,Uyo,4/11/2024 10:20,0,1,0,0,0
+107159,Jumia,Bills,Verve,Kano,3/16/2024 3:41,0,0,1,1,0
+295499,Konga,Bills,Visa,Ibadan,1/7/2024 14:09,0,0,0,1,1
+479117,TravelAgency,Insurance,Visa,Enugu,2/4/2024 8:21,0,1,0,3,1
+343656,Supermarket,Healthcare,Visa,Kaduna,6/13/2024 2:46,0,1,1,2,1
+405972,FuelStation,Insurance,MasterCard,Benin City,5/28/2024 6:19,0,1,0,0,2
+415251,Hospital,Travel,MasterCard,Kano,3/6/2024 5:33,0,1,1,1,2
+187989,Supermarket,Insurance,Verve,Abuja,6/17/2024 22:30,0,0,0,2,0
+362026,TravelAgency,Retail,Verve,Jos,4/8/2024 15:20,0,1,0,3,0
+438394,Hospital,Travel,Amex,Kaduna,3/29/2024 6:00,0,1,0,1,3
+230425,FuelStation,Education,Visa,Benin City,2/13/2024 18:08,0,0,0,0,1
+355486,Supermarket,Insurance,Amex,Benin City,3/9/2024 3:05,0,1,1,2,3
+439027,Jumia,Insurance,MasterCard,Kano,5/24/2024 11:27,0,1,0,1,2
+171956,TravelAgency,Insurance,Verve,Benin City,1/6/2024 20:21,1,0,0,3,0
+176559,Airtime/Data,Travel,Amex,Uyo,4/15/2024 15:14,0,0,0,1,3
+238431,Airtime/Data,Retail,Visa,Lagos,2/25/2024 20:13,0,0,0,1,1
+44888,Supermarket,Retail,Amex,Abuja,1/16/2024 7:46,0,0,0,2,3
+51061,Supermarket,Entertainment,Verve,Port Harcourt,1/13/2024 18:59,1,0,0,2,0
+137692,Supermarket,Education,MasterCard,Kaduna,4/2/2024 13:28,0,0,0,2,2
+436612,Supermarket,Retail,Visa,Kaduna,2/21/2024 15:12,0,1,0,2,1
+297145,Konga,Travel,Amex,Kano,1/21/2024 16:14,0,0,0,1,3
+374525,Hospital,Entertainment,Amex,Ibadan,3/31/2024 8:26,0,1,0,1,3
+482858,Electronics,Bills,Verve,Jos,5/1/2024 1:06,0,1,1,1,0
+53910,Supermarket,Insurance,MasterCard,Port Harcourt,5/6/2024 8:39,0,0,0,2,2
+331838,Electronics,Healthcare,Amex,Benin City,1/7/2024 3:19,0,1,1,1,3
+372781,Hospital,Entertainment,Amex,Benin City,5/10/2024 16:36,0,1,0,1,3
+445493,Airtime/Data,Travel,Verve,Port Harcourt,5/4/2024 22:16,0,1,0,1,0
+288058,Hospital,Bills,MasterCard,Ibadan,5/30/2024 15:01,0,0,0,1,2
+348468,Hospital,Entertainment,Visa,Port Harcourt,4/28/2024 8:35,0,1,0,1,1
+65431,Jumia,Entertainment,Visa,Uyo,4/1/2024 6:46,0,0,0,1,1
+21655,Airtime/Data,Travel,Verve,Lagos,3/17/2024 0:15,0,0,1,1,0
+138205,Hospital,Healthcare,Visa,Lagos,6/2/2024 23:14,0,0,0,1,1
+310490,Electronics,Bills,Visa,Port Harcourt,1/23/2024 3:29,0,1,1,1,1
+411484,Airtime/Data,Food,Visa,Port Harcourt,6/15/2024 11:17,0,1,0,1,1
+127787,Airtime/Data,Healthcare,Verve,Jos,5/30/2024 14:42,0,0,0,1,0
+408967,FuelStation,Entertainment,Verve,Abuja,1/16/2024 8:20,0,1,0,0,0
+498574,Jumia,Insurance,Visa,Jos,3/22/2024 21:24,0,1,0,1,1
+72705,Konga,Bills,Verve,Enugu,3/4/2024 3:37,0,0,1,1,0
+98067,Hospital,Entertainment,Visa,Lagos,5/17/2024 20:03,0,0,0,1,1
+125026,Supermarket,Healthcare,Visa,Kano,1/31/2024 20:27,0,0,0,2,1
+260252,TravelAgency,Bills,Verve,Uyo,1/10/2024 16:35,0,0,0,3,0
+177353,Konga,Healthcare,Amex,Lagos,2/3/2024 15:52,0,0,0,1,3
+342974,Jumia,Food,Visa,Lagos,1/12/2024 2:46,0,1,1,1,1
+339724,Konga,Retail,Verve,Port Harcourt,4/26/2024 9:22,0,1,0,1,0
+175391,Electronics,Travel,Verve,Lagos,3/13/2024 19:33,0,0,0,1,0
+110602,Hospital,Bills,Verve,Port Harcourt,2/17/2024 15:29,0,0,0,1,0
+343022,Konga,Education,Verve,Benin City,1/6/2024 14:12,0,1,0,1,0
+21459,Supermarket,Food,Visa,Kaduna,2/19/2024 21:29,0,0,0,2,1
+36608,Supermarket,Bills,Verve,Kaduna,2/7/2024 6:10,0,0,0,2,0
+161040,Hospital,Travel,Verve,Jos,6/17/2024 3:12,1,0,1,1,0
+326219,Jumia,Travel,Verve,Enugu,4/14/2024 11:47,0,1,0,1,0
+306313,Supermarket,Bills,Amex,Kaduna,1/8/2024 6:20,0,1,0,2,3
+49376,Airtime/Data,Travel,MasterCard,Lagos,4/14/2024 3:33,0,0,1,1,2
+87365,Hospital,Healthcare,Visa,Lagos,5/13/2024 14:57,0,0,0,1,1
+91298,Supermarket,Healthcare,MasterCard,Lagos,5/2/2024 20:33,0,0,0,2,2
+319236,Konga,Healthcare,Verve,Uyo,4/24/2024 19:21,0,1,0,1,0
+421162,Jumia,Education,Amex,Port Harcourt,1/5/2024 8:34,0,1,0,1,3
+277266,FuelStation,Entertainment,Amex,Abuja,1/4/2024 16:37,0,0,0,0,3
+2942,FuelStation,Insurance,Visa,Kaduna,2/11/2024 8:53,0,0,0,0,1
+437164,Supermarket,Education,MasterCard,Abuja,2/28/2024 1:14,0,1,1,2,2
+366500,Electronics,Food,Visa,Kano,1/11/2024 2:13,0,1,1,1,1
+11814,FuelStation,Entertainment,Verve,Jos,3/20/2024 20:21,0,0,0,0,0
+64175,Hospital,Retail,Amex,Port Harcourt,6/13/2024 2:26,0,0,1,1,3
+471938,Supermarket,Bills,Verve,Jos,1/13/2024 0:56,0,1,1,2,0
+367441,Airtime/Data,Healthcare,MasterCard,Uyo,4/19/2024 14:02,0,1,0,1,2
+164800,Hospital,Travel,Visa,Abuja,5/5/2024 8:21,0,0,0,1,1
+250004,TravelAgency,Entertainment,MasterCard,Enugu,1/11/2024 1:59,0,0,1,3,2
+23879,Konga,Food,MasterCard,Kaduna,2/12/2024 17:07,0,0,0,1,2
+201174,Jumia,Bills,Amex,Benin City,2/9/2024 17:56,0,0,0,1,3
+88651,Supermarket,Travel,Amex,Enugu,5/29/2024 19:34,0,0,0,2,3
+38129,Konga,Healthcare,Visa,Port Harcourt,4/7/2024 14:54,0,0,0,1,1
+418124,Hospital,Education,Verve,Lagos,3/25/2024 11:21,0,1,0,1,0
+35940,FuelStation,Insurance,Visa,Lagos,3/13/2024 17:40,0,0,0,0,1
+62716,Konga,Education,Amex,Kaduna,1/30/2024 11:38,0,0,0,1,3
+182288,Konga,Insurance,Visa,Jos,1/20/2024 20:13,0,0,0,1,1
+331410,Airtime/Data,Food,Visa,Jos,4/2/2024 2:38,0,1,1,1,1
+356204,Airtime/Data,Entertainment,MasterCard,Ibadan,4/8/2024 6:35,0,1,0,1,2
+225283,Konga,Insurance,Visa,Jos,2/25/2024 13:49,0,0,0,1,1
+478088,TravelAgency,Entertainment,Verve,Ibadan,6/1/2024 6:11,0,1,0,3,0
+124877,Airtime/Data,Education,Amex,Jos,3/20/2024 2:19,0,0,1,1,3
+76246,Hospital,Food,Amex,Ibadan,5/22/2024 14:47,0,0,0,1,3
+163431,Jumia,Bills,Visa,Lagos,6/8/2024 23:04,0,0,0,1,1
+164344,FuelStation,Food,Amex,Abuja,6/15/2024 18:29,0,0,0,0,3
+101957,Airtime/Data,Entertainment,Verve,Port Harcourt,2/13/2024 21:42,0,0,0,1,0
+456744,Konga,Entertainment,MasterCard,Ibadan,4/5/2024 6:25,0,1,0,1,2
+404877,TravelAgency,Insurance,Visa,Uyo,6/3/2024 3:23,0,1,1,3,1
+384658,Supermarket,Healthcare,Amex,Ibadan,3/28/2024 22:50,0,1,0,2,3
+256996,Airtime/Data,Entertainment,Amex,Kano,4/1/2024 17:42,0,0,0,1,3
+118680,Electronics,Insurance,Amex,Port Harcourt,4/14/2024 20:22,0,0,0,1,3
+376757,Konga,Travel,Verve,Enugu,3/30/2024 17:44,0,1,0,1,0
+53238,Jumia,Education,Verve,Jos,6/22/2024 9:56,0,0,0,1,0
+329260,FuelStation,Education,Verve,Abuja,2/1/2024 13:30,0,1,0,0,0
+45967,FuelStation,Bills,MasterCard,Benin City,4/18/2024 19:44,0,0,0,0,2
+331601,Konga,Education,Verve,Enugu,5/22/2024 21:37,0,1,0,1,0
+426628,Electronics,Food,Visa,Abuja,5/30/2024 1:01,1,1,1,1,1
+196985,Konga,Healthcare,Amex,Benin City,1/20/2024 22:17,0,0,0,1,3
+103472,Electronics,Bills,MasterCard,Uyo,3/18/2024 23:35,0,0,0,1,2
+458815,Airtime/Data,Food,Visa,Abuja,4/1/2024 19:14,0,1,0,1,1
+260446,Supermarket,Insurance,Amex,Kaduna,5/2/2024 0:09,0,0,1,2,3
+269679,Electronics,Healthcare,MasterCard,Kano,4/13/2024 9:29,0,0,0,1,2
+184844,TravelAgency,Travel,Verve,Benin City,2/22/2024 9:53,0,0,0,3,0
+482044,FuelStation,Retail,Visa,Port Harcourt,5/3/2024 3:40,0,1,1,0,1
+53588,Electronics,Insurance,MasterCard,Benin City,6/3/2024 22:53,0,0,0,1,2
+383956,TravelAgency,Bills,MasterCard,Lagos,3/12/2024 3:49,0,1,1,3,2
+450049,TravelAgency,Food,Verve,Jos,1/10/2024 11:29,0,1,0,3,0
+136480,TravelAgency,Travel,MasterCard,Abuja,6/14/2024 0:10,0,0,1,3,2
+203928,Hospital,Insurance,MasterCard,Benin City,2/17/2024 7:04,0,0,0,1,2
+352198,Jumia,Healthcare,Verve,Enugu,6/12/2024 3:48,0,1,1,1,0
+476463,Supermarket,Food,Visa,Kaduna,5/17/2024 7:04,0,1,0,2,1
+342772,Electronics,Insurance,MasterCard,Uyo,4/27/2024 16:39,0,1,0,1,2
+438585,Konga,Food,Verve,Lagos,1/5/2024 19:43,0,1,0,1,0
+252393,Jumia,Education,MasterCard,Jos,4/13/2024 19:11,0,0,0,1,2
+210357,Airtime/Data,Entertainment,Amex,Kaduna,4/20/2024 20:03,1,0,0,1,3
+251747,Airtime/Data,Bills,Amex,Enugu,1/22/2024 6:24,0,0,0,1,3
+31714,Airtime/Data,Retail,Verve,Lagos,2/28/2024 14:57,0,0,0,1,0
+9563,Konga,Food,Visa,Jos,6/11/2024 18:10,0,0,0,1,1
+62794,Airtime/Data,Insurance,Visa,Kano,4/9/2024 8:10,0,0,0,1,1
+4052,Konga,Travel,Verve,Enugu,2/29/2024 8:44,0,0,0,1,0
+29040,Electronics,Education,Verve,Benin City,2/21/2024 19:41,0,0,0,1,0
+107594,Jumia,Retail,Visa,Abuja,2/25/2024 6:54,1,0,0,1,1
+445886,Hospital,Education,Visa,Ibadan,4/11/2024 17:58,0,1,0,1,1
+254937,Jumia,Healthcare,Visa,Abuja,3/29/2024 22:24,0,0,0,1,1
+327901,Airtime/Data,Food,Visa,Lagos,5/15/2024 10:40,0,1,0,1,1
+254633,Konga,Bills,Visa,Kaduna,3/18/2024 6:13,1,0,0,1,1
+453560,Airtime/Data,Retail,MasterCard,Uyo,4/3/2024 9:50,1,1,0,1,2
+408844,TravelAgency,Travel,Visa,Kano,5/23/2024 12:49,0,1,0,3,1
+380524,TravelAgency,Education,MasterCard,Abuja,4/27/2024 3:38,0,1,1,3,2
+452005,Electronics,Insurance,MasterCard,Benin City,2/1/2024 10:54,0,1,0,1,2
+388249,Electronics,Entertainment,Amex,Benin City,2/12/2024 3:12,0,1,1,1,3
+273181,Konga,Insurance,MasterCard,Benin City,3/19/2024 23:05,0,0,0,1,2
+136307,Airtime/Data,Retail,Visa,Abuja,5/22/2024 4:42,0,0,1,1,1
+366676,Supermarket,Travel,Amex,Port Harcourt,2/29/2024 12:30,1,1,0,2,3
+346258,TravelAgency,Entertainment,Visa,Enugu,1/23/2024 1:12,0,1,1,3,1
+347834,Electronics,Bills,MasterCard,Jos,6/1/2024 6:37,0,1,0,1,2
+107181,Jumia,Insurance,MasterCard,Uyo,5/11/2024 17:41,0,0,0,1,2
+230308,Konga,Retail,MasterCard,Ibadan,5/10/2024 9:37,0,0,0,1,2
+252278,Konga,Travel,Visa,Jos,5/4/2024 16:50,0,0,0,1,1
+18889,Hospital,Travel,Verve,Kano,4/20/2024 13:22,0,0,0,1,0
+332100,Electronics,Education,Verve,Enugu,5/10/2024 5:27,0,1,1,1,0
+381828,Airtime/Data,Food,Visa,Jos,1/27/2024 5:27,0,1,1,1,1
+213817,TravelAgency,Insurance,Visa,Abuja,6/9/2024 5:30,0,0,1,3,1
+34993,Jumia,Healthcare,MasterCard,Lagos,2/10/2024 12:17,0,0,0,1,2
+321152,Jumia,Retail,Verve,Abuja,4/10/2024 20:03,0,1,0,1,0
+288674,Jumia,Travel,Verve,Jos,1/29/2024 3:32,0,0,1,1,0
+312438,Jumia,Food,Verve,Enugu,3/14/2024 16:12,0,1,0,1,0
+358593,FuelStation,Retail,Verve,Ibadan,5/9/2024 23:46,0,1,0,0,0
+385911,Airtime/Data,Food,Verve,Kano,1/30/2024 18:48,0,1,0,1,0
+253245,FuelStation,Entertainment,MasterCard,Kano,2/26/2024 4:34,0,0,1,0,2
+387115,Electronics,Retail,Verve,Enugu,1/11/2024 16:35,0,1,0,1,0
+104947,FuelStation,Food,Verve,Lagos,4/25/2024 14:40,0,0,0,0,0
+128210,Supermarket,Healthcare,Visa,Lagos,2/3/2024 13:48,0,0,0,2,1
+80003,Jumia,Travel,Verve,Enugu,1/4/2024 3:10,0,0,1,1,0
+380667,Jumia,Bills,Visa,Kaduna,4/16/2024 6:51,0,1,0,1,1
+120122,Konga,Retail,Visa,Benin City,5/9/2024 6:00,0,0,0,1,1
+89974,Jumia,Retail,MasterCard,Ibadan,3/13/2024 1:33,0,0,1,1,2
+151093,Electronics,Healthcare,Amex,Jos,4/21/2024 17:11,0,0,0,1,3
+496738,Hospital,Bills,Visa,Benin City,4/27/2024 4:44,0,1,1,1,1
+404653,Supermarket,Education,Amex,Abuja,6/3/2024 16:09,1,1,0,2,3
+466351,Konga,Healthcare,MasterCard,Abuja,4/23/2024 6:33,0,1,0,1,2
+288252,Supermarket,Bills,Visa,Lagos,5/7/2024 21:06,0,0,0,2,1
+422481,Airtime/Data,Entertainment,Amex,Lagos,6/8/2024 5:25,1,1,1,1,3
+311075,FuelStation,Travel,MasterCard,Lagos,3/3/2024 20:51,0,1,0,0,2
+42181,Jumia,Travel,Verve,Kano,4/3/2024 2:35,0,0,1,1,0
+195900,FuelStation,Education,Verve,Ibadan,2/4/2024 12:34,0,0,0,0,0
+469927,FuelStation,Food,Verve,Kaduna,6/7/2024 13:59,0,1,0,0,0
+22794,Hospital,Retail,Verve,Enugu,4/26/2024 4:44,0,0,1,1,0
+36723,Airtime/Data,Entertainment,Visa,Kano,2/4/2024 5:51,0,0,1,1,1
+263353,Hospital,Travel,Amex,Ibadan,1/28/2024 11:39,0,0,0,1,3
+205381,TravelAgency,Travel,MasterCard,Uyo,1/22/2024 2:21,0,0,1,3,2
+377378,Electronics,Insurance,Amex,Port Harcourt,6/18/2024 8:32,0,1,0,1,3
+352926,TravelAgency,Retail,Amex,Kano,1/26/2024 14:11,0,1,0,3,3
+319874,Jumia,Retail,Amex,Kano,6/21/2024 15:03,0,1,0,1,3
+356812,Hospital,Food,MasterCard,Abuja,2/13/2024 2:07,0,1,1,1,2
+232199,Hospital,Healthcare,Verve,Ibadan,2/12/2024 4:25,0,0,1,1,0
+356018,Jumia,Travel,Verve,Uyo,3/1/2024 3:04,0,1,1,1,0
+336150,Jumia,Food,Visa,Lagos,5/30/2024 4:34,0,1,1,1,1
+294946,Supermarket,Travel,MasterCard,Port Harcourt,5/10/2024 11:00,0,0,0,2,2
+184511,Jumia,Retail,Amex,Kaduna,3/27/2024 6:23,0,0,0,1,3
+70209,TravelAgency,Bills,Verve,Abuja,4/12/2024 21:35,0,0,0,3,0
+424984,Supermarket,Education,Visa,Kano,4/6/2024 12:36,0,1,0,2,1
+273741,Hospital,Healthcare,MasterCard,Enugu,4/10/2024 13:24,1,0,0,1,2
+268282,Jumia,Retail,Amex,Uyo,6/6/2024 12:56,0,0,0,1,3
+78658,Airtime/Data,Travel,Verve,Benin City,1/28/2024 12:46,0,0,0,1,0
+425190,Electronics,Insurance,MasterCard,Lagos,1/8/2024 15:31,0,1,0,1,2
+270781,Supermarket,Bills,Amex,Kaduna,5/7/2024 5:31,0,0,1,2,3
+273196,Konga,Entertainment,MasterCard,Kano,1/18/2024 17:54,0,0,0,1,2
+47229,Electronics,Retail,Amex,Enugu,1/13/2024 11:38,0,0,0,1,3
+74785,Supermarket,Retail,MasterCard,Ibadan,2/18/2024 20:35,0,0,0,2,2
+306953,FuelStation,Retail,Visa,Uyo,1/22/2024 12:07,0,1,0,0,1
+262604,FuelStation,Education,Verve,Port Harcourt,3/17/2024 1:46,0,0,1,0,0
+95114,Konga,Insurance,Verve,Port Harcourt,3/11/2024 1:02,0,0,1,1,0
+347425,Electronics,Travel,Visa,Abuja,5/3/2024 20:54,0,1,0,1,1
+152630,Airtime/Data,Bills,Verve,Lagos,1/29/2024 7:53,0,0,0,1,0
+218231,TravelAgency,Food,Amex,Benin City,3/29/2024 21:14,0,0,0,3,3
+12356,Hospital,Healthcare,Amex,Enugu,6/6/2024 7:13,0,0,0,1,3
+88745,Hospital,Food,Visa,Lagos,2/6/2024 18:16,0,0,0,1,1
+374626,Hospital,Travel,Amex,Lagos,5/8/2024 22:29,0,1,0,1,3
+422424,Hospital,Entertainment,Amex,Abuja,1/12/2024 7:20,0,1,0,1,3
+294808,Airtime/Data,Retail,Amex,Lagos,2/19/2024 14:52,0,0,0,1,3
+243862,TravelAgency,Bills,Amex,Benin City,6/6/2024 16:41,0,0,0,3,3
+178607,Airtime/Data,Insurance,Verve,Lagos,6/19/2024 4:21,0,0,1,1,0
+341776,FuelStation,Retail,Amex,Lagos,1/28/2024 17:36,0,1,0,0,3
+418326,Electronics,Entertainment,Amex,Uyo,2/26/2024 9:48,0,1,0,1,3
+195451,Konga,Entertainment,MasterCard,Ibadan,5/17/2024 23:41,0,0,0,1,2
+467656,Supermarket,Healthcare,Visa,Kaduna,2/9/2024 1:35,0,1,1,2,1
+453183,Airtime/Data,Food,Visa,Benin City,5/12/2024 17:22,0,1,0,1,1
+320385,Airtime/Data,Food,Amex,Benin City,5/22/2024 3:48,0,1,1,1,3
+459250,Airtime/Data,Retail,Visa,Lagos,4/7/2024 15:22,0,1,0,1,1
+348602,Jumia,Retail,Visa,Abuja,5/8/2024 16:49,0,1,0,1,1
+53260,Hospital,Insurance,Visa,Kaduna,4/26/2024 8:19,0,0,0,1,1
+70199,FuelStation,Education,MasterCard,Ibadan,3/13/2024 1:43,0,0,1,0,2
+140414,FuelStation,Healthcare,Verve,Abuja,3/1/2024 13:12,0,0,0,0,0
+306143,Electronics,Insurance,MasterCard,Jos,3/23/2024 2:18,0,1,1,1,2
+88659,Electronics,Travel,Verve,Uyo,2/29/2024 14:50,0,0,0,1,0
+396031,FuelStation,Education,Visa,Benin City,5/24/2024 16:44,0,1,0,0,1
+268485,Konga,Food,MasterCard,Ibadan,3/15/2024 17:42,0,0,0,1,2
+411769,Airtime/Data,Education,MasterCard,Jos,5/30/2024 4:53,0,1,1,1,2
+384071,Supermarket,Insurance,MasterCard,Port Harcourt,1/5/2024 8:52,0,1,0,2,2
+41035,Electronics,Retail,MasterCard,Lagos,3/25/2024 0:39,0,0,1,1,2
+371813,Supermarket,Bills,Visa,Lagos,2/8/2024 1:54,0,1,1,2,1
+493840,Hospital,Healthcare,MasterCard,Port Harcourt,3/9/2024 5:22,0,1,1,1,2
+155114,FuelStation,Entertainment,Verve,Lagos,2/18/2024 19:36,0,0,0,0,0
+171613,Supermarket,Entertainment,Visa,Kano,3/14/2024 18:41,0,0,0,2,1
+261419,TravelAgency,Travel,MasterCard,Ibadan,5/21/2024 21:48,1,0,0,3,2
+71621,Konga,Retail,Verve,Kano,2/29/2024 22:02,0,0,0,1,0
+140302,FuelStation,Education,MasterCard,Kano,6/4/2024 21:54,0,0,0,0,2
+443497,Airtime/Data,Retail,MasterCard,Kano,6/20/2024 17:26,0,1,0,1,2
+28907,Jumia,Bills,Visa,Abuja,3/6/2024 6:10,0,0,0,1,1
+298454,TravelAgency,Insurance,Verve,Abuja,2/16/2024 2:40,0,0,1,3,0
+257617,TravelAgency,Insurance,Amex,Kano,5/1/2024 6:41,0,0,0,3,3
+271159,FuelStation,Retail,Amex,Uyo,2/28/2024 0:59,0,0,1,0,3
+421826,FuelStation,Food,MasterCard,Lagos,3/4/2024 7:48,0,1,0,0,2
+275879,Electronics,Retail,Verve,Enugu,1/24/2024 1:23,0,0,1,1,0
+20676,TravelAgency,Entertainment,MasterCard,Kano,5/13/2024 12:57,0,0,0,3,2
+9500,Electronics,Bills,Amex,Ibadan,2/28/2024 13:08,0,0,0,1,3
+203049,Supermarket,Insurance,Amex,Port Harcourt,1/17/2024 5:15,0,0,1,2,3
+310604,Electronics,Healthcare,Verve,Kaduna,2/12/2024 2:47,0,1,1,1,0
+181493,TravelAgency,Retail,MasterCard,Benin City,4/23/2024 23:51,0,0,0,3,2
+334536,Hospital,Insurance,Amex,Benin City,6/5/2024 22:09,0,1,0,1,3
+57167,Jumia,Healthcare,MasterCard,Kano,5/28/2024 0:38,0,0,1,1,2
+225371,Supermarket,Travel,Visa,Abuja,4/28/2024 7:35,0,0,0,2,1
+237655,Electronics,Entertainment,Amex,Lagos,2/23/2024 14:42,0,0,0,1,3
+345994,TravelAgency,Education,Amex,Port Harcourt,1/28/2024 6:19,0,1,0,3,3
+74521,FuelStation,Healthcare,Verve,Kaduna,6/5/2024 9:07,0,0,0,0,0
+409361,Hospital,Education,Verve,Enugu,4/15/2024 5:01,0,1,1,1,0
+71242,Jumia,Retail,Amex,Uyo,2/21/2024 8:04,0,0,0,1,3
+275528,Konga,Insurance,Amex,Enugu,2/4/2024 2:40,0,0,1,1,3
+480469,TravelAgency,Entertainment,MasterCard,Lagos,5/6/2024 16:27,1,1,0,3,2
+443894,Konga,Bills,Amex,Kaduna,4/6/2024 22:24,0,1,0,1,3
+25922,Konga,Entertainment,MasterCard,Ibadan,3/14/2024 22:35,0,0,0,1,2
+11011,Hospital,Healthcare,Visa,Port Harcourt,1/21/2024 10:13,0,0,0,1,1
+368168,Jumia,Education,Visa,Benin City,4/5/2024 6:34,0,1,0,1,1
+109806,TravelAgency,Education,Verve,Abuja,1/13/2024 7:06,0,0,0,3,0
+342876,Hospital,Education,Visa,Lagos,1/8/2024 11:23,0,1,0,1,1
+26490,Konga,Education,Amex,Enugu,5/7/2024 7:22,0,0,0,1,3
+204180,Konga,Bills,MasterCard,Ibadan,1/11/2024 11:07,0,0,0,1,2
+462834,Supermarket,Healthcare,Amex,Kaduna,5/27/2024 9:47,0,1,0,2,3
+92489,Hospital,Food,Amex,Ibadan,4/2/2024 3:34,0,0,1,1,3
+57627,Electronics,Healthcare,Visa,Port Harcourt,4/28/2024 19:22,0,0,0,1,1
+237413,Airtime/Data,Retail,Amex,Ibadan,6/17/2024 1:16,0,0,1,1,3
+205749,TravelAgency,Entertainment,Amex,Lagos,2/3/2024 18:54,0,0,0,3,3
+139570,Supermarket,Healthcare,Amex,Lagos,1/11/2024 3:42,0,0,1,2,3
+330464,Konga,Insurance,MasterCard,Abuja,6/12/2024 16:20,0,1,0,1,2
+279877,Jumia,Entertainment,MasterCard,Enugu,6/11/2024 9:31,0,0,0,1,2
+214119,Konga,Bills,Visa,Uyo,4/26/2024 18:07,0,0,0,1,1
+267718,Hospital,Education,Amex,Uyo,6/12/2024 0:02,0,0,1,1,3
+479576,Supermarket,Food,Visa,Ibadan,2/25/2024 18:46,0,1,0,2,1
+106711,Airtime/Data,Retail,Verve,Enugu,1/15/2024 6:57,0,0,0,1,0
+349657,Airtime/Data,Insurance,Visa,Lagos,3/9/2024 15:35,0,1,0,1,1
+161138,Hospital,Insurance,Verve,Jos,4/10/2024 17:10,0,0,0,1,0
+65621,Hospital,Healthcare,Verve,Port Harcourt,4/17/2024 20:01,0,0,0,1,0
+473173,Konga,Healthcare,Visa,Port Harcourt,4/7/2024 1:22,0,1,1,1,1
+99452,Electronics,Travel,Verve,Benin City,4/28/2024 5:24,0,0,1,1,0
+404435,Airtime/Data,Travel,Amex,Kaduna,4/16/2024 11:19,0,1,0,1,3
+242154,Jumia,Healthcare,Amex,Jos,3/17/2024 16:11,0,0,0,1,3
+178454,Airtime/Data,Healthcare,Visa,Jos,4/17/2024 17:31,0,0,0,1,1
+30235,Jumia,Insurance,Amex,Lagos,2/7/2024 0:49,0,0,1,1,3
+240259,TravelAgency,Travel,Amex,Ibadan,5/25/2024 15:35,0,0,0,3,3
+74686,Hospital,Education,MasterCard,Port Harcourt,1/1/2024 19:57,0,0,0,1,2
+304120,Electronics,Healthcare,Verve,Enugu,6/4/2024 13:13,0,1,0,1,0
+442826,Hospital,Bills,Amex,Jos,3/24/2024 2:29,0,1,1,1,3
+138335,TravelAgency,Retail,Amex,Uyo,1/31/2024 1:13,0,0,1,3,3
+406148,Konga,Travel,MasterCard,Kano,2/25/2024 7:20,0,1,0,1,2
+160540,TravelAgency,Food,Amex,Kano,2/8/2024 5:04,0,0,1,3,3
+320992,FuelStation,Insurance,Verve,Ibadan,2/23/2024 16:17,0,1,0,0,0
+372663,Supermarket,Travel,Amex,Abuja,3/29/2024 13:52,0,1,0,2,3
+481933,Hospital,Education,Verve,Kaduna,3/6/2024 13:08,0,1,0,1,0
+239008,Hospital,Retail,MasterCard,Kano,3/3/2024 20:41,0,0,0,1,2
+437894,Electronics,Food,MasterCard,Uyo,2/7/2024 5:37,0,1,1,1,2
+488818,Jumia,Education,MasterCard,Benin City,5/4/2024 16:12,0,1,0,1,2
+397254,FuelStation,Insurance,MasterCard,Lagos,6/4/2024 23:57,0,1,0,0,2
+405165,Supermarket,Retail,MasterCard,Lagos,5/30/2024 17:36,0,1,0,2,2
+395734,TravelAgency,Education,Visa,Jos,6/20/2024 3:05,0,1,1,3,1
+360319,TravelAgency,Bills,MasterCard,Kaduna,3/19/2024 21:56,0,1,0,3,2
+27592,Hospital,Insurance,Verve,Abuja,3/13/2024 11:27,0,0,0,1,0
+469704,Electronics,Bills,Amex,Port Harcourt,6/16/2024 22:11,0,1,0,1,3
+15153,Electronics,Retail,Visa,Kano,1/2/2024 0:59,0,0,1,1,1
+312662,Jumia,Entertainment,Visa,Benin City,6/16/2024 0:40,0,1,1,1,1
+379630,Konga,Retail,Amex,Enugu,5/2/2024 9:29,0,1,0,1,3
+407943,Konga,Healthcare,MasterCard,Enugu,3/19/2024 0:37,0,1,1,1,2
+441357,Hospital,Retail,Amex,Benin City,3/11/2024 3:31,0,1,1,1,3
+393558,Airtime/Data,Insurance,Visa,Benin City,4/10/2024 10:35,0,1,0,1,1
+315878,TravelAgency,Insurance,MasterCard,Ibadan,2/27/2024 23:05,0,1,0,3,2
+184143,Konga,Retail,Amex,Lagos,4/11/2024 11:35,0,0,0,1,3
+220939,Airtime/Data,Healthcare,Verve,Uyo,1/31/2024 5:30,0,0,1,1,0
+417607,Hospital,Travel,Visa,Kano,5/19/2024 22:24,0,1,0,1,1
+377006,Konga,Retail,Verve,Jos,4/18/2024 4:12,0,1,1,1,0
+259453,Supermarket,Entertainment,MasterCard,Benin City,2/6/2024 21:04,1,0,0,2,2
+29975,TravelAgency,Insurance,MasterCard,Jos,2/8/2024 15:04,0,0,0,3,2
+225111,FuelStation,Entertainment,Visa,Kano,6/4/2024 8:05,0,0,0,0,1
+85571,Supermarket,Education,Verve,Benin City,2/18/2024 19:07,0,0,0,2,0
+164403,TravelAgency,Entertainment,Verve,Uyo,2/4/2024 20:47,1,0,0,3,0
+117711,Hospital,Healthcare,Verve,Kaduna,1/24/2024 22:41,0,0,0,1,0
+324185,Airtime/Data,Bills,Verve,Enugu,6/13/2024 2:40,0,1,1,1,0
+412893,Jumia,Food,Amex,Port Harcourt,3/2/2024 2:37,0,1,1,1,3
+111924,Supermarket,Travel,Verve,Kano,5/22/2024 13:41,0,0,0,2,0
+289927,TravelAgency,Travel,Visa,Port Harcourt,5/12/2024 12:00,0,0,0,3,1
+103867,FuelStation,Bills,Visa,Abuja,5/15/2024 9:09,0,0,0,0,1
+102580,Hospital,Travel,Verve,Kano,3/21/2024 2:19,1,0,1,1,0
+290067,FuelStation,Bills,Visa,Uyo,4/25/2024 10:10,0,0,0,0,1
+272340,Hospital,Healthcare,Amex,Benin City,5/30/2024 5:30,0,0,1,1,3
+306142,Jumia,Insurance,MasterCard,Enugu,4/30/2024 4:50,0,1,1,1,2
+79105,TravelAgency,Entertainment,MasterCard,Kano,6/4/2024 18:04,0,0,0,3,2
+110923,Supermarket,Retail,Amex,Abuja,5/16/2024 11:20,1,0,0,2,3
+29233,Konga,Entertainment,Verve,Ibadan,2/2/2024 4:27,0,0,1,1,0
+273103,Airtime/Data,Entertainment,Visa,Port Harcourt,5/3/2024 10:31,0,0,0,1,1
+10165,FuelStation,Retail,Amex,Benin City,4/19/2024 13:04,0,0,0,0,3
+481404,Electronics,Education,Visa,Kaduna,2/20/2024 20:45,0,1,0,1,1
+29605,Jumia,Travel,Amex,Kano,4/16/2024 0:35,0,0,1,1,3
+227099,FuelStation,Travel,Visa,Ibadan,4/10/2024 12:30,0,0,0,0,1
+52231,FuelStation,Entertainment,Verve,Abuja,3/13/2024 6:58,0,0,0,0,0
+216101,Jumia,Insurance,Visa,Abuja,1/20/2024 9:54,0,0,0,1,1
+88781,Supermarket,Entertainment,MasterCard,Benin City,2/8/2024 20:50,0,0,0,2,2
+460329,Airtime/Data,Healthcare,Visa,Enugu,1/20/2024 1:39,0,1,1,1,1
+72741,FuelStation,Retail,Amex,Kaduna,4/22/2024 21:21,0,0,0,0,3
+208830,Jumia,Bills,Visa,Benin City,5/4/2024 22:35,0,0,0,1,1
+24205,Airtime/Data,Bills,Amex,Kano,4/29/2024 4:07,0,0,1,1,3
+2376,Electronics,Bills,Amex,Uyo,2/24/2024 21:54,0,0,0,1,3
+130690,Konga,Bills,MasterCard,Port Harcourt,4/4/2024 15:56,0,0,0,1,2
+473919,Jumia,Insurance,Visa,Kano,1/12/2024 12:42,0,1,0,1,1
+410837,Hospital,Travel,MasterCard,Kaduna,4/10/2024 11:34,0,1,0,1,2
+431571,TravelAgency,Bills,Visa,Uyo,3/10/2024 9:04,0,1,0,3,1
+182417,Hospital,Food,MasterCard,Port Harcourt,3/9/2024 8:49,0,0,0,1,2
+195403,TravelAgency,Insurance,Verve,Port Harcourt,5/23/2024 13:35,0,0,0,3,0
+422422,Hospital,Food,Amex,Port Harcourt,4/3/2024 20:32,0,1,0,1,3
+153175,Jumia,Travel,MasterCard,Enugu,5/30/2024 7:57,0,0,0,1,2
+435673,Konga,Food,Visa,Benin City,4/20/2024 6:38,0,1,0,1,1
+457188,Airtime/Data,Retail,MasterCard,Ibadan,5/1/2024 8:55,0,1,0,1,2
+315918,TravelAgency,Travel,MasterCard,Port Harcourt,4/1/2024 12:10,0,1,0,3,2
+330703,Konga,Retail,Visa,Ibadan,2/10/2024 11:38,0,1,0,1,1
+175233,FuelStation,Education,MasterCard,Jos,4/18/2024 18:52,0,0,0,0,2
+427095,FuelStation,Food,Verve,Enugu,1/18/2024 12:15,0,1,0,0,0
+242364,Supermarket,Food,Visa,Enugu,4/19/2024 15:38,0,0,0,2,1
+315056,Hospital,Healthcare,MasterCard,Kano,3/24/2024 10:56,0,1,0,1,2
+222902,Supermarket,Healthcare,Amex,Abuja,4/1/2024 15:18,0,0,0,2,3
+222007,Jumia,Education,Visa,Kaduna,3/31/2024 12:40,0,0,0,1,1
+464555,Jumia,Healthcare,Amex,Lagos,5/13/2024 3:30,0,1,1,1,3
+35902,FuelStation,Bills,Amex,Abuja,1/29/2024 1:39,0,0,1,0,3
+128771,Airtime/Data,Education,Visa,Port Harcourt,2/17/2024 6:20,0,0,0,1,1
+487822,TravelAgency,Bills,Amex,Ibadan,6/9/2024 1:55,0,1,1,3,3
+256095,Konga,Insurance,Verve,Kano,1/8/2024 5:58,0,0,1,1,0
+253541,Electronics,Retail,Visa,Ibadan,2/21/2024 14:37,0,0,0,1,1
+370965,Konga,Entertainment,MasterCard,Benin City,3/26/2024 5:24,0,1,1,1,2
+478583,Supermarket,Bills,Visa,Enugu,2/8/2024 20:54,0,1,0,2,1
+457260,Konga,Insurance,MasterCard,Port Harcourt,5/30/2024 11:14,0,1,0,1,2
+412027,Hospital,Education,Verve,Enugu,3/4/2024 10:21,0,1,0,1,0
+344243,Hospital,Food,MasterCard,Kaduna,1/9/2024 10:49,0,1,0,1,2
+254028,Electronics,Retail,Verve,Abuja,6/19/2024 10:56,0,0,0,1,0
+5685,Jumia,Bills,Visa,Abuja,6/4/2024 22:24,1,0,0,1,1
+195390,FuelStation,Insurance,Visa,Port Harcourt,4/13/2024 0:01,0,0,1,0,1
+459564,Airtime/Data,Retail,MasterCard,Benin City,4/15/2024 23:17,0,1,0,1,2
+204054,Supermarket,Travel,MasterCard,Abuja,2/15/2024 14:58,0,0,0,2,2
+185037,Electronics,Entertainment,Visa,Kano,5/24/2024 6:19,0,0,0,1,1
+305092,Airtime/Data,Healthcare,MasterCard,Benin City,6/19/2024 4:02,0,1,1,1,2
+151632,Airtime/Data,Travel,MasterCard,Uyo,4/4/2024 11:02,0,0,0,1,2
+442167,Electronics,Insurance,Visa,Kano,3/28/2024 22:32,0,1,0,1,1
+415097,TravelAgency,Food,Visa,Benin City,1/18/2024 21:28,0,1,0,3,1
+494855,Konga,Travel,Amex,Kaduna,1/10/2024 14:36,0,1,0,1,3
+298344,Electronics,Bills,MasterCard,Enugu,1/17/2024 4:37,0,0,1,1,2
+38126,FuelStation,Retail,Visa,Ibadan,1/25/2024 9:57,0,0,0,0,1
+110002,TravelAgency,Food,Verve,Lagos,1/23/2024 12:34,0,0,0,3,0
+402600,FuelStation,Entertainment,MasterCard,Lagos,4/7/2024 17:32,0,1,0,0,2
+164859,TravelAgency,Insurance,Visa,Lagos,5/19/2024 18:02,0,0,0,3,1
+396733,Airtime/Data,Education,Visa,Enugu,6/18/2024 21:58,0,1,0,1,1
+474491,Hospital,Entertainment,Verve,Jos,4/16/2024 15:46,0,1,0,1,0
+359795,Supermarket,Education,Verve,Ibadan,5/12/2024 3:10,0,1,1,2,0
+86770,Hospital,Bills,Verve,Lagos,4/19/2024 8:20,0,0,0,1,0
+400022,TravelAgency,Food,MasterCard,Benin City,1/12/2024 8:29,0,1,0,3,2
+28981,Hospital,Entertainment,Verve,Enugu,3/16/2024 11:39,0,0,0,1,0
+180067,FuelStation,Healthcare,Amex,Kano,3/5/2024 5:38,0,0,1,0,3
+265575,Konga,Food,Verve,Enugu,6/8/2024 8:01,0,0,0,1,0
+387716,Airtime/Data,Entertainment,MasterCard,Benin City,3/16/2024 17:40,0,1,0,1,2
+198004,Airtime/Data,Entertainment,Verve,Kaduna,2/25/2024 8:15,0,0,0,1,0
+86197,FuelStation,Travel,Visa,Ibadan,6/16/2024 1:56,0,0,1,0,1
+334777,Airtime/Data,Education,MasterCard,Lagos,1/19/2024 2:03,0,1,1,1,2
+7874,Airtime/Data,Entertainment,MasterCard,Uyo,2/16/2024 13:24,0,0,0,1,2
+444633,Jumia,Bills,Verve,Lagos,3/4/2024 23:01,0,1,0,1,0
+419101,Supermarket,Healthcare,Amex,Jos,2/7/2024 21:09,0,1,0,2,3
+272822,Electronics,Retail,MasterCard,Kaduna,6/13/2024 18:02,0,0,0,1,2
+341229,FuelStation,Travel,Amex,Jos,4/24/2024 8:43,0,1,0,0,3
+249547,FuelStation,Entertainment,Amex,Lagos,4/24/2024 5:39,0,0,1,0,3
+135718,Konga,Bills,Amex,Jos,1/17/2024 3:20,0,0,1,1,3
+215418,TravelAgency,Education,MasterCard,Ibadan,1/11/2024 12:05,0,0,0,3,2
+391459,FuelStation,Healthcare,Amex,Benin City,6/20/2024 2:54,0,1,1,0,3
+428998,Hospital,Insurance,Amex,Ibadan,3/3/2024 20:15,0,1,0,1,3
+83277,TravelAgency,Travel,MasterCard,Ibadan,3/24/2024 7:13,0,0,0,3,2
+63228,Electronics,Entertainment,Amex,Enugu,6/2/2024 19:47,0,0,0,1,3
+12311,Hospital,Retail,Visa,Benin City,1/25/2024 2:11,0,0,1,1,1
+191471,Jumia,Bills,Visa,Kaduna,1/1/2024 19:45,0,0,0,1,1
+283240,Konga,Healthcare,Verve,Ibadan,1/28/2024 16:58,0,0,0,1,0
+435400,FuelStation,Bills,Visa,Uyo,2/1/2024 15:14,0,1,0,0,1
+141921,Airtime/Data,Education,MasterCard,Port Harcourt,1/28/2024 9:01,0,0,0,1,2
+3593,Konga,Bills,Verve,Uyo,3/3/2024 18:38,1,0,0,1,0
+30308,Jumia,Retail,MasterCard,Kano,6/18/2024 21:57,0,0,0,1,2
+369819,Supermarket,Food,MasterCard,Kano,2/24/2024 22:01,0,1,0,2,2
+297956,Airtime/Data,Retail,Visa,Kano,2/16/2024 8:01,0,0,0,1,1
+457327,Electronics,Travel,MasterCard,Kaduna,5/3/2024 10:08,0,1,0,1,2
+437153,Airtime/Data,Education,Verve,Abuja,4/4/2024 5:44,0,1,1,1,0
+317242,TravelAgency,Healthcare,Visa,Uyo,1/1/2024 13:15,1,1,0,3,1
+77256,TravelAgency,Bills,Visa,Lagos,1/3/2024 13:34,0,0,0,3,1
+466009,Electronics,Insurance,Visa,Port Harcourt,3/30/2024 6:33,1,1,0,1,1
+253142,TravelAgency,Travel,Visa,Kano,4/6/2024 2:52,0,0,1,3,1
+430415,Jumia,Retail,Verve,Lagos,2/28/2024 17:18,1,1,0,1,0
+498161,Supermarket,Bills,MasterCard,Enugu,4/11/2024 7:42,0,1,0,2,2
+361241,TravelAgency,Food,Visa,Kano,5/30/2024 4:03,0,1,1,3,1
+230046,TravelAgency,Insurance,Visa,Uyo,6/9/2024 8:48,0,0,0,3,1
+480893,FuelStation,Retail,Verve,Benin City,1/19/2024 9:30,0,1,0,0,0
+87339,Supermarket,Insurance,Verve,Jos,4/14/2024 3:36,0,0,1,2,0
+294618,Konga,Healthcare,Amex,Enugu,2/24/2024 16:24,0,0,0,1,3
+492112,Konga,Insurance,Visa,Lagos,1/13/2024 11:27,0,1,0,1,1
+111367,Electronics,Retail,Amex,Abuja,2/7/2024 0:19,0,0,1,1,3
+344125,TravelAgency,Travel,Verve,Uyo,1/11/2024 5:08,0,1,1,3,0
+351030,TravelAgency,Food,Verve,Kano,5/4/2024 5:23,0,1,1,3,0
+120925,TravelAgency,Healthcare,Visa,Lagos,3/13/2024 20:30,0,0,0,3,1
+147519,Jumia,Entertainment,Verve,Ibadan,3/17/2024 3:11,0,0,1,1,0
+210957,Airtime/Data,Healthcare,Verve,Uyo,4/13/2024 10:19,0,0,0,1,0
+112550,TravelAgency,Insurance,Amex,Port Harcourt,2/2/2024 0:30,0,0,1,3,3
+380746,Hospital,Education,MasterCard,Ibadan,1/31/2024 4:17,0,1,1,1,2
+441108,Supermarket,Travel,Amex,Jos,3/7/2024 2:46,0,1,1,2,3
+11921,Jumia,Entertainment,Verve,Lagos,2/23/2024 18:43,0,0,0,1,0
+45049,Electronics,Education,MasterCard,Jos,6/22/2024 4:21,0,0,1,1,2
+278399,TravelAgency,Entertainment,MasterCard,Ibadan,6/17/2024 21:58,0,0,0,3,2
+362483,Hospital,Education,Visa,Ibadan,1/26/2024 16:01,0,1,0,1,1
+374350,Airtime/Data,Bills,MasterCard,Ibadan,2/27/2024 12:58,0,1,0,1,2
+173710,FuelStation,Travel,Visa,Ibadan,2/18/2024 16:57,0,0,0,0,1
+151142,Hospital,Entertainment,Amex,Port Harcourt,4/8/2024 14:37,0,0,0,1,3
+86623,Supermarket,Entertainment,Visa,Jos,2/8/2024 17:31,0,0,0,2,1
+111520,Airtime/Data,Food,Verve,Jos,2/25/2024 20:23,0,0,0,1,0
+426466,Hospital,Travel,Verve,Enugu,1/13/2024 18:21,0,1,0,1,0
+156520,Hospital,Retail,Amex,Port Harcourt,4/28/2024 15:38,0,0,0,1,3
+58564,FuelStation,Insurance,Verve,Lagos,3/21/2024 8:19,0,0,0,0,0
+348246,Supermarket,Insurance,Amex,Jos,6/21/2024 12:07,0,1,0,2,3
+144622,Electronics,Bills,MasterCard,Abuja,1/20/2024 14:41,0,0,0,1,2
+404259,TravelAgency,Travel,Visa,Port Harcourt,3/29/2024 23:07,0,1,0,3,1
+473200,Electronics,Entertainment,Amex,Ibadan,3/8/2024 5:15,0,1,1,1,3
+424093,Konga,Healthcare,Visa,Ibadan,1/5/2024 13:36,0,1,0,1,1
+146698,Electronics,Retail,Visa,Kaduna,1/7/2024 4:59,0,0,1,1,1
+25395,FuelStation,Entertainment,Verve,Lagos,1/16/2024 18:53,0,0,0,0,0
+200300,TravelAgency,Travel,MasterCard,Lagos,2/11/2024 16:35,0,0,0,3,2
+451519,FuelStation,Insurance,Amex,Abuja,4/1/2024 23:41,0,1,0,0,3
+249991,Hospital,Entertainment,Visa,Lagos,4/3/2024 21:48,0,0,0,1,1
+282088,Electronics,Bills,Amex,Benin City,5/16/2024 9:07,0,0,0,1,3
+364365,Supermarket,Education,Verve,Kano,2/22/2024 3:45,0,1,1,2,0
+341026,TravelAgency,Entertainment,MasterCard,Kaduna,5/11/2024 20:04,0,1,0,3,2
+221178,TravelAgency,Bills,Verve,Port Harcourt,1/2/2024 3:15,0,0,1,3,0
+247222,Airtime/Data,Travel,Verve,Lagos,1/9/2024 9:58,0,0,0,1,0
+476203,TravelAgency,Bills,Amex,Kano,4/22/2024 9:36,0,1,0,3,3
+190310,Jumia,Retail,Amex,Kaduna,2/20/2024 3:28,0,0,1,1,3
+130172,Airtime/Data,Retail,MasterCard,Uyo,4/8/2024 8:46,0,0,0,1,2
+353895,Electronics,Education,Visa,Abuja,3/10/2024 14:40,0,1,0,1,1
+260941,Konga,Education,MasterCard,Uyo,6/17/2024 16:08,0,0,0,1,2
+273299,Hospital,Travel,MasterCard,Ibadan,3/13/2024 16:42,0,0,0,1,2
+467985,Electronics,Bills,Verve,Uyo,2/2/2024 4:21,0,1,1,1,0
+387233,FuelStation,Retail,Verve,Abuja,3/11/2024 12:53,0,1,0,0,0
+492314,Airtime/Data,Healthcare,MasterCard,Lagos,1/1/2024 4:16,0,1,1,1,2
+488509,Konga,Insurance,MasterCard,Lagos,4/14/2024 18:56,0,1,0,1,2
+440222,Airtime/Data,Bills,Verve,Jos,2/9/2024 19:58,0,1,0,1,0
+295242,FuelStation,Food,Amex,Port Harcourt,6/12/2024 15:59,0,0,0,0,3
+46885,Supermarket,Healthcare,Visa,Enugu,3/2/2024 3:37,0,0,1,2,1
+122918,Airtime/Data,Insurance,Amex,Enugu,6/5/2024 22:36,0,0,0,1,3
+171743,FuelStation,Entertainment,Amex,Jos,4/3/2024 5:11,0,0,1,0,3
+331628,Hospital,Bills,Visa,Jos,6/18/2024 17:53,0,1,0,1,1
+215910,Electronics,Food,Verve,Jos,3/6/2024 21:25,0,0,0,1,0
+398950,Hospital,Retail,MasterCard,Kaduna,1/30/2024 17:01,0,1,0,1,2
+49531,FuelStation,Insurance,Amex,Kano,2/13/2024 10:27,1,0,0,0,3
+456808,Hospital,Food,MasterCard,Jos,6/10/2024 8:49,0,1,0,1,2
+128196,TravelAgency,Healthcare,MasterCard,Ibadan,6/20/2024 21:04,0,0,0,3,2
+460876,Airtime/Data,Food,MasterCard,Jos,4/18/2024 16:51,0,1,0,1,2
+478083,Supermarket,Healthcare,Visa,Port Harcourt,6/10/2024 0:53,0,1,1,2,1
+150812,Jumia,Bills,Verve,Lagos,2/8/2024 9:42,0,0,0,1,0
+78199,Hospital,Education,Verve,Kano,3/31/2024 10:11,0,0,0,1,0
+487750,Airtime/Data,Education,MasterCard,Kaduna,5/14/2024 9:49,0,1,0,1,2
+146978,FuelStation,Healthcare,Visa,Abuja,6/6/2024 21:23,0,0,0,0,1
+33305,TravelAgency,Food,Visa,Abuja,3/10/2024 16:59,0,0,0,3,1
+287757,Electronics,Healthcare,MasterCard,Benin City,1/31/2024 8:07,0,0,0,1,2
+157130,Jumia,Insurance,Visa,Port Harcourt,4/30/2024 15:19,0,0,0,1,1
+41477,Jumia,Healthcare,Amex,Kaduna,4/16/2024 22:20,0,0,0,1,3
+388155,Jumia,Travel,MasterCard,Port Harcourt,5/10/2024 14:31,0,1,0,1,2
+449123,Electronics,Bills,Visa,Ibadan,6/21/2024 5:46,0,1,1,1,1
+70798,FuelStation,Education,Verve,Abuja,2/8/2024 11:11,0,0,0,0,0
+426191,Electronics,Retail,Visa,Uyo,3/13/2024 21:03,0,1,0,1,1
+175537,Electronics,Retail,Amex,Enugu,6/18/2024 11:18,0,0,0,1,3
+114994,TravelAgency,Food,Verve,Ibadan,5/12/2024 20:20,0,0,0,3,0
+75000,Konga,Healthcare,Verve,Uyo,5/21/2024 18:16,0,0,0,1,0
+197344,FuelStation,Bills,Amex,Kaduna,2/26/2024 6:18,0,0,0,0,3
+88503,TravelAgency,Food,Verve,Abuja,5/16/2024 18:55,0,0,0,3,0
+85590,TravelAgency,Bills,Verve,Ibadan,2/19/2024 5:40,0,0,1,3,0
+74451,Jumia,Retail,Amex,Benin City,3/5/2024 2:34,0,0,1,1,3
+363632,Hospital,Bills,Visa,Abuja,2/5/2024 2:30,0,1,1,1,1
+295959,TravelAgency,Education,MasterCard,Jos,5/6/2024 9:47,0,0,0,3,2
+369930,Airtime/Data,Entertainment,MasterCard,Jos,4/12/2024 22:21,0,1,0,1,2
+201066,Supermarket,Travel,MasterCard,Ibadan,4/22/2024 23:02,0,0,0,2,2
+276738,FuelStation,Entertainment,Visa,Kano,6/20/2024 3:51,0,0,1,0,1
+346011,Airtime/Data,Food,Verve,Lagos,2/6/2024 3:10,0,1,1,1,0
+13987,TravelAgency,Insurance,Amex,Kano,1/21/2024 11:04,1,0,0,3,3
+253660,Hospital,Healthcare,Verve,Uyo,2/4/2024 7:25,0,0,0,1,0
+288277,Hospital,Retail,Visa,Abuja,4/19/2024 7:56,0,0,0,1,1
+72975,Supermarket,Retail,Visa,Ibadan,5/22/2024 0:16,0,0,1,2,1
+154111,Konga,Insurance,Amex,Lagos,3/26/2024 5:39,0,0,1,1,3
+270074,TravelAgency,Bills,Verve,Lagos,2/25/2024 19:31,0,0,0,3,0
+324555,Airtime/Data,Education,Amex,Enugu,3/26/2024 3:18,0,1,1,1,3
+17112,TravelAgency,Insurance,Amex,Port Harcourt,5/14/2024 1:17,0,0,1,3,3
+169190,Hospital,Insurance,Verve,Kaduna,4/28/2024 0:49,0,0,1,1,0
+359896,Jumia,Education,Amex,Ibadan,4/28/2024 11:46,0,1,0,1,3
+461809,Supermarket,Travel,MasterCard,Kano,2/5/2024 18:33,0,1,0,2,2
+136189,Supermarket,Entertainment,Visa,Enugu,1/5/2024 0:39,0,0,1,2,1
+295555,Jumia,Travel,Visa,Uyo,4/8/2024 17:35,0,0,0,1,1
+336834,Airtime/Data,Insurance,MasterCard,Abuja,1/7/2024 23:29,0,1,0,1,2
+277532,Konga,Travel,Visa,Kaduna,1/1/2024 18:36,0,0,0,1,1
+131920,Hospital,Insurance,Amex,Jos,4/2/2024 1:12,0,0,1,1,3
+385644,Electronics,Retail,Amex,Lagos,2/7/2024 10:30,0,1,0,1,3
+227805,Hospital,Travel,MasterCard,Lagos,1/29/2024 18:47,0,0,0,1,2
+265231,Airtime/Data,Travel,Verve,Port Harcourt,5/8/2024 10:21,0,0,0,1,0
+413498,TravelAgency,Retail,MasterCard,Port Harcourt,1/1/2024 23:18,0,1,0,3,2
+405395,Supermarket,Healthcare,MasterCard,Kano,1/11/2024 0:30,0,1,1,2,2
+386341,FuelStation,Travel,MasterCard,Enugu,3/20/2024 16:15,0,1,0,0,2
+484432,Jumia,Travel,Amex,Lagos,5/22/2024 9:09,1,1,0,1,3
+172432,Hospital,Entertainment,MasterCard,Kaduna,4/19/2024 19:04,0,0,0,1,2
+200654,FuelStation,Food,MasterCard,Port Harcourt,2/16/2024 1:25,0,0,1,0,2
+237217,Konga,Food,Verve,Benin City,4/16/2024 18:20,0,0,0,1,0
+147064,TravelAgency,Bills,Verve,Enugu,4/14/2024 6:15,0,0,0,3,0
+391670,Hospital,Education,Amex,Uyo,2/18/2024 6:28,0,1,0,1,3
+474130,FuelStation,Healthcare,MasterCard,Enugu,1/26/2024 9:38,0,1,0,0,2
+296707,Airtime/Data,Entertainment,Amex,Abuja,3/1/2024 8:30,0,0,0,1,3
+78923,Airtime/Data,Insurance,Amex,Abuja,5/29/2024 7:05,0,0,0,1,3
+458910,FuelStation,Insurance,Verve,Abuja,2/11/2024 5:12,0,1,1,0,0
+158795,Airtime/Data,Bills,Amex,Kano,1/19/2024 11:49,0,0,0,1,3
+327022,Airtime/Data,Bills,Amex,Jos,1/3/2024 17:15,0,1,0,1,3
+347033,Hospital,Healthcare,Amex,Uyo,2/2/2024 6:36,1,1,0,1,3
+346961,FuelStation,Retail,MasterCard,Uyo,1/25/2024 21:08,1,1,0,0,2
+208444,Airtime/Data,Food,Amex,Lagos,2/11/2024 23:42,0,0,0,1,3
+210385,Hospital,Food,Amex,Kaduna,4/13/2024 5:04,0,0,1,1,3
+20720,Electronics,Food,Verve,Lagos,5/8/2024 15:55,0,0,0,1,0
+130249,Airtime/Data,Travel,MasterCard,Kaduna,6/9/2024 2:33,0,0,1,1,2
+317153,Konga,Insurance,MasterCard,Enugu,3/13/2024 5:42,0,1,1,1,2
+218433,Hospital,Bills,MasterCard,Jos,3/1/2024 8:53,0,0,0,1,2
+297813,FuelStation,Insurance,MasterCard,Benin City,4/27/2024 18:37,0,0,0,0,2
+44155,Hospital,Retail,Verve,Kaduna,5/21/2024 15:38,0,0,0,1,0
+187493,Jumia,Insurance,Verve,Lagos,1/7/2024 10:14,0,0,0,1,0
+267401,Supermarket,Travel,Verve,Lagos,1/16/2024 12:04,0,0,0,2,0
+215646,TravelAgency,Education,Amex,Kaduna,1/20/2024 9:00,0,0,0,3,3
+236068,Hospital,Insurance,MasterCard,Uyo,1/10/2024 11:42,0,0,0,1,2
+495374,Airtime/Data,Education,MasterCard,Enugu,2/26/2024 12:13,0,1,0,1,2
+253895,Supermarket,Education,Amex,Kano,5/17/2024 10:04,0,0,0,2,3
+339733,FuelStation,Bills,Verve,Uyo,1/2/2024 1:43,0,1,1,0,0
+229224,Jumia,Healthcare,Visa,Kaduna,5/8/2024 23:39,0,0,0,1,1
+248680,Airtime/Data,Education,Visa,Jos,2/28/2024 5:47,0,0,1,1,1
+301809,FuelStation,Travel,MasterCard,Jos,4/17/2024 12:26,0,1,0,0,2
+232834,TravelAgency,Bills,Visa,Port Harcourt,3/15/2024 17:00,0,0,0,3,1
+56852,Jumia,Education,Amex,Abuja,6/3/2024 21:16,0,0,0,1,3
+383650,Jumia,Retail,Verve,Kano,1/7/2024 14:01,0,1,0,1,0
+449259,Hospital,Education,Visa,Benin City,1/16/2024 0:09,0,1,1,1,1
+281443,FuelStation,Insurance,Visa,Lagos,4/15/2024 16:07,0,0,0,0,1
+438512,Konga,Retail,Verve,Jos,3/10/2024 14:02,0,1,0,1,0
+234123,Airtime/Data,Healthcare,Verve,Uyo,4/6/2024 21:10,0,0,0,1,0
+448894,Konga,Education,Amex,Kano,4/1/2024 23:08,0,1,0,1,3
+67898,Jumia,Retail,Visa,Lagos,5/10/2024 6:52,0,0,0,1,1
+191672,Supermarket,Education,MasterCard,Kaduna,1/30/2024 20:57,0,0,0,2,2
+356192,TravelAgency,Food,Visa,Uyo,5/22/2024 18:15,0,1,0,3,1
+17375,Jumia,Travel,MasterCard,Port Harcourt,1/19/2024 22:21,0,0,0,1,2
+131738,FuelStation,Travel,Visa,Benin City,2/23/2024 5:29,0,0,1,0,1
+245925,TravelAgency,Travel,MasterCard,Kaduna,5/30/2024 22:32,0,0,0,3,2
+104992,Konga,Food,Amex,Uyo,2/10/2024 20:15,0,0,0,1,3
+196293,Electronics,Healthcare,MasterCard,Ibadan,2/9/2024 3:11,0,0,1,1,2
+26581,Supermarket,Bills,Visa,Abuja,6/13/2024 15:32,0,0,0,2,1
+424608,Airtime/Data,Retail,Visa,Enugu,6/3/2024 2:01,0,1,1,1,1
+410056,Hospital,Education,Verve,Kano,2/6/2024 18:28,0,1,0,1,0
+11051,Konga,Education,Amex,Kaduna,4/19/2024 6:59,0,0,0,1,3
+491921,Konga,Retail,Amex,Uyo,5/8/2024 13:39,0,1,0,1,3
+414763,Electronics,Healthcare,Visa,Lagos,5/14/2024 16:41,0,1,0,1,1
+287924,Hospital,Retail,Amex,Kaduna,2/24/2024 9:30,0,0,0,1,3
+265016,FuelStation,Travel,Verve,Abuja,1/24/2024 21:26,0,0,0,0,0
+245373,FuelStation,Healthcare,Verve,Uyo,1/23/2024 12:40,0,0,0,0,0
+91335,Jumia,Education,Amex,Lagos,4/3/2024 8:53,0,0,0,1,3
+453601,TravelAgency,Entertainment,MasterCard,Jos,6/8/2024 0:45,0,1,1,3,2
+473167,TravelAgency,Entertainment,Verve,Port Harcourt,4/11/2024 17:09,0,1,0,3,0
+115447,FuelStation,Education,Amex,Kaduna,2/19/2024 18:13,0,0,0,0,3
+313638,FuelStation,Entertainment,Amex,Kaduna,4/12/2024 0:05,0,1,1,0,3
+160799,Hospital,Insurance,Visa,Jos,3/22/2024 14:01,0,0,0,1,1
+271503,Supermarket,Entertainment,Amex,Jos,2/20/2024 6:16,0,0,0,2,3
+318759,TravelAgency,Insurance,Verve,Lagos,1/31/2024 19:14,0,1,0,3,0
+262870,Jumia,Insurance,MasterCard,Benin City,2/6/2024 18:54,0,0,0,1,2
+483287,FuelStation,Insurance,MasterCard,Ibadan,3/26/2024 9:19,0,1,0,0,2
+63336,Hospital,Education,Verve,Kaduna,3/6/2024 18:13,0,0,0,1,0
+440743,Konga,Travel,Amex,Kano,3/2/2024 6:26,0,1,0,1,3
+441728,Hospital,Bills,Amex,Benin City,2/26/2024 10:49,0,1,0,1,3
+248527,Electronics,Travel,Visa,Kaduna,6/5/2024 12:21,0,0,0,1,1
+382739,Electronics,Insurance,MasterCard,Benin City,5/7/2024 3:01,0,1,1,1,2
+381192,Electronics,Healthcare,Visa,Lagos,3/13/2024 22:01,0,1,0,1,1
+163111,Hospital,Travel,Visa,Benin City,6/16/2024 0:06,0,0,1,1,1
+75442,Hospital,Travel,MasterCard,Enugu,1/12/2024 17:34,0,0,0,1,2
+416800,TravelAgency,Bills,MasterCard,Enugu,1/25/2024 23:39,1,1,0,3,2
+349436,Jumia,Healthcare,Amex,Enugu,3/16/2024 3:18,0,1,1,1,3
+416336,Supermarket,Bills,Amex,Uyo,6/3/2024 1:07,0,1,1,2,3
+60163,Jumia,Education,Amex,Enugu,1/1/2024 13:10,0,0,0,1,3
+206823,Airtime/Data,Insurance,Visa,Jos,4/30/2024 16:38,1,0,0,1,1
+82382,Supermarket,Travel,Visa,Benin City,3/19/2024 21:42,1,0,0,2,1
+245486,FuelStation,Food,Amex,Kaduna,5/21/2024 2:45,0,0,1,0,3
+84016,TravelAgency,Travel,Amex,Kaduna,5/18/2024 1:17,0,0,1,3,3
+47515,TravelAgency,Bills,Verve,Jos,2/10/2024 8:48,0,0,0,3,0
+107600,Electronics,Retail,Amex,Uyo,2/22/2024 2:05,0,0,1,1,3
+342835,FuelStation,Retail,Visa,Abuja,2/17/2024 4:21,0,1,1,0,1
+185841,Supermarket,Insurance,Amex,Ibadan,4/9/2024 22:03,0,0,0,2,3
+259908,Konga,Food,MasterCard,Abuja,6/14/2024 16:57,0,0,0,1,2
+328605,Konga,Healthcare,Visa,Jos,3/12/2024 4:34,1,1,1,1,1
+459537,Supermarket,Education,MasterCard,Kaduna,5/19/2024 12:42,0,1,0,2,2
+292610,TravelAgency,Travel,Visa,Port Harcourt,5/13/2024 9:48,0,0,0,3,1
+370323,Hospital,Education,Verve,Jos,6/22/2024 2:11,0,1,1,1,0
+493446,Konga,Retail,Amex,Ibadan,2/28/2024 16:24,0,1,0,1,3
+99598,Jumia,Retail,Amex,Uyo,6/6/2024 6:52,0,0,0,1,3
+322469,Electronics,Travel,Visa,Kano,2/22/2024 12:59,0,1,0,1,1
+143338,Electronics,Retail,Visa,Kano,2/12/2024 5:06,1,0,1,1,1
+469077,Airtime/Data,Travel,Verve,Lagos,1/24/2024 23:07,0,1,0,1,0
+58551,Jumia,Education,MasterCard,Benin City,3/8/2024 15:21,0,0,0,1,2
+55418,Jumia,Entertainment,MasterCard,Port Harcourt,1/13/2024 21:57,0,0,0,1,2
+411301,Jumia,Insurance,MasterCard,Kano,5/30/2024 0:55,0,1,1,1,2
+19525,Jumia,Retail,Amex,Enugu,3/21/2024 1:20,0,0,1,1,3
+158931,Jumia,Bills,Amex,Benin City,5/23/2024 14:28,0,0,0,1,3
+393370,Hospital,Education,Amex,Enugu,2/23/2024 3:58,0,1,1,1,3
+375796,Jumia,Bills,Amex,Kano,1/7/2024 6:17,0,1,0,1,3
+271638,Jumia,Entertainment,Amex,Benin City,3/1/2024 0:38,0,0,1,1,3
+320767,Jumia,Education,Visa,Benin City,1/12/2024 2:13,0,1,1,1,1
+297634,TravelAgency,Insurance,MasterCard,Benin City,3/25/2024 23:23,0,0,0,3,2
+211462,Electronics,Education,Visa,Abuja,1/10/2024 18:13,0,0,0,1,1
+492083,Airtime/Data,Food,MasterCard,Port Harcourt,5/26/2024 18:35,0,1,0,1,2
+365393,Airtime/Data,Bills,Verve,Kaduna,3/3/2024 19:14,0,1,0,1,0
+428169,Konga,Education,Amex,Kaduna,2/14/2024 0:14,0,1,1,1,3
+206504,TravelAgency,Healthcare,MasterCard,Benin City,5/27/2024 15:21,0,0,0,3,2
+202540,Airtime/Data,Entertainment,Verve,Uyo,4/6/2024 8:38,0,0,0,1,0
+170640,Hospital,Entertainment,Amex,Abuja,1/25/2024 9:44,0,0,0,1,3
+321940,TravelAgency,Education,MasterCard,Uyo,2/3/2024 5:24,0,1,1,3,2
+351651,Jumia,Entertainment,MasterCard,Lagos,2/17/2024 6:34,0,1,0,1,2
+432252,FuelStation,Insurance,MasterCard,Port Harcourt,1/24/2024 16:10,0,1,0,0,2
+299476,TravelAgency,Healthcare,Amex,Enugu,4/8/2024 11:09,0,0,0,3,3
+28114,Airtime/Data,Insurance,Visa,Kaduna,6/15/2024 6:39,0,0,0,1,1
+185329,Supermarket,Entertainment,Verve,Kaduna,2/14/2024 11:15,0,0,0,2,0
+186172,Hospital,Education,Verve,Abuja,1/29/2024 4:38,0,0,1,1,0
+276910,Hospital,Entertainment,MasterCard,Enugu,5/31/2024 21:03,0,0,0,1,2
+347285,Airtime/Data,Insurance,Amex,Ibadan,3/14/2024 3:23,0,1,1,1,3
+415240,Airtime/Data,Bills,Verve,Enugu,2/26/2024 16:20,0,1,0,1,0
+434902,Jumia,Education,Visa,Lagos,6/10/2024 4:46,1,1,1,1,1
+481068,Supermarket,Bills,Amex,Port Harcourt,4/23/2024 11:40,0,1,0,2,3
+1995,Hospital,Insurance,Visa,Jos,5/15/2024 23:15,0,0,0,1,1
+14054,FuelStation,Bills,Amex,Port Harcourt,3/14/2024 4:19,0,0,1,0,3
+336110,Hospital,Education,Verve,Kano,4/25/2024 19:00,0,1,0,1,0
+137046,FuelStation,Healthcare,Verve,Kaduna,2/5/2024 3:15,0,0,1,0,0
+448495,Jumia,Food,Visa,Kano,2/23/2024 18:52,0,1,0,1,1
+123492,Airtime/Data,Healthcare,Verve,Jos,5/20/2024 2:11,0,0,1,1,0
+20519,Electronics,Healthcare,Visa,Kaduna,2/25/2024 10:48,0,0,0,1,1
+4134,Airtime/Data,Bills,MasterCard,Jos,4/3/2024 1:01,0,0,1,1,2
+384981,Konga,Bills,Visa,Uyo,5/12/2024 14:08,0,1,0,1,1
+410587,FuelStation,Entertainment,Amex,Abuja,1/29/2024 3:54,1,1,1,0,3
+133841,Electronics,Insurance,Verve,Kaduna,5/22/2024 11:37,0,0,0,1,0
+438243,Supermarket,Retail,Verve,Uyo,5/6/2024 7:46,0,1,0,2,0
+402720,TravelAgency,Healthcare,MasterCard,Kaduna,5/23/2024 10:02,0,1,0,3,2
+246579,Jumia,Healthcare,Visa,Enugu,2/12/2024 5:33,0,0,1,1,1
+348708,Airtime/Data,Bills,Visa,Abuja,2/22/2024 10:08,0,1,0,1,1
+101722,Jumia,Education,Amex,Abuja,6/8/2024 16:29,0,0,0,1,3
+125073,Jumia,Retail,MasterCard,Benin City,5/28/2024 12:01,0,0,0,1,2
+388514,Jumia,Retail,Visa,Abuja,5/1/2024 6:27,0,1,0,1,1
+242230,Airtime/Data,Retail,Verve,Uyo,4/2/2024 16:26,0,0,0,1,0
+337423,Jumia,Travel,Visa,Port Harcourt,5/21/2024 8:29,0,1,0,1,1
+207238,Airtime/Data,Bills,Amex,Ibadan,6/13/2024 2:57,0,0,1,1,3
+190386,Electronics,Retail,Amex,Abuja,3/12/2024 10:32,0,0,0,1,3
+336663,TravelAgency,Food,Visa,Port Harcourt,2/18/2024 16:59,0,1,0,3,1
+118237,FuelStation,Travel,Visa,Enugu,5/31/2024 21:20,0,0,0,0,1
+310087,FuelStation,Retail,Verve,Enugu,3/8/2024 19:32,0,1,0,0,0
+160511,Electronics,Insurance,Amex,Jos,6/10/2024 4:30,0,0,1,1,3
+214456,TravelAgency,Education,Amex,Uyo,1/5/2024 15:00,0,0,0,3,3
+186217,Electronics,Travel,Amex,Benin City,1/14/2024 18:37,0,0,0,1,3
+446935,Jumia,Insurance,MasterCard,Lagos,1/6/2024 18:45,0,1,0,1,2
+383515,Jumia,Travel,Amex,Kaduna,5/4/2024 17:59,0,1,0,1,3
+453393,Hospital,Food,Verve,Port Harcourt,5/16/2024 0:57,0,1,1,1,0
+201340,Supermarket,Travel,Amex,Uyo,5/11/2024 12:21,0,0,0,2,3
+463357,Electronics,Education,Amex,Ibadan,2/4/2024 6:07,0,1,0,1,3
+301486,Airtime/Data,Entertainment,Amex,Enugu,3/24/2024 15:22,0,1,0,1,3
+23622,Hospital,Insurance,Amex,Benin City,2/1/2024 13:06,0,0,0,1,3
+152908,Airtime/Data,Bills,Amex,Kano,1/24/2024 21:58,1,0,0,1,3
+343461,Electronics,Travel,Verve,Jos,6/9/2024 9:23,0,1,0,1,0
+134265,Electronics,Retail,Verve,Kaduna,2/29/2024 7:28,0,0,0,1,0
+373207,FuelStation,Bills,Amex,Enugu,3/6/2024 6:17,0,1,0,0,3
+349493,Airtime/Data,Food,Amex,Benin City,2/12/2024 8:00,0,1,0,1,3
+2585,Airtime/Data,Insurance,Amex,Enugu,2/1/2024 10:34,0,0,0,1,3
+299992,Hospital,Retail,Amex,Lagos,6/8/2024 18:25,0,0,0,1,3
+497506,Jumia,Healthcare,MasterCard,Kano,4/10/2024 1:09,0,1,1,1,2
+394172,Supermarket,Education,Amex,Enugu,2/10/2024 10:37,0,1,0,2,3
+114941,Supermarket,Retail,MasterCard,Uyo,4/22/2024 7:44,0,0,0,2,2
+143513,Electronics,Education,Verve,Enugu,1/11/2024 2:36,0,0,1,1,0
+260406,TravelAgency,Entertainment,Verve,Abuja,4/21/2024 4:47,0,0,1,3,0
+165341,TravelAgency,Food,Amex,Lagos,5/21/2024 6:37,0,0,0,3,3
+488702,Hospital,Education,Verve,Lagos,1/18/2024 16:28,0,1,0,1,0
+310960,Electronics,Food,Amex,Jos,4/26/2024 3:49,1,1,1,1,3
+312381,Konga,Travel,MasterCard,Port Harcourt,1/15/2024 18:55,0,1,0,1,2
+387488,Supermarket,Healthcare,MasterCard,Abuja,5/16/2024 13:02,0,1,0,2,2
+285573,Supermarket,Retail,Amex,Lagos,3/30/2024 23:34,0,0,0,2,3
+434459,Jumia,Bills,Visa,Lagos,6/6/2024 0:06,0,1,1,1,1
+267032,Konga,Travel,Verve,Kano,6/18/2024 14:24,1,0,0,1,0
+112541,Konga,Travel,MasterCard,Enugu,1/5/2024 0:50,0,0,1,1,2
+349350,TravelAgency,Insurance,Amex,Ibadan,1/2/2024 12:33,0,1,0,3,3
+443991,Konga,Education,Visa,Enugu,3/10/2024 9:46,0,1,0,1,1
+158247,Airtime/Data,Bills,MasterCard,Ibadan,1/31/2024 11:58,0,0,0,1,2
+17946,Electronics,Insurance,Visa,Enugu,5/31/2024 22:01,0,0,0,1,1
+3142,TravelAgency,Insurance,Amex,Lagos,6/7/2024 5:51,0,0,1,3,3
+369228,TravelAgency,Insurance,MasterCard,Benin City,5/12/2024 0:05,0,1,1,3,2
+411467,Supermarket,Travel,Visa,Enugu,3/8/2024 7:38,0,1,0,2,1
+353372,Konga,Entertainment,Visa,Lagos,2/4/2024 20:55,0,1,0,1,1
+369660,Electronics,Food,Amex,Port Harcourt,3/22/2024 10:18,1,1,0,1,3
+150932,Konga,Retail,Visa,Benin City,4/30/2024 8:19,0,0,0,1,1
+403009,Hospital,Travel,Visa,Jos,2/7/2024 12:27,0,1,0,1,1
+229512,Jumia,Food,Amex,Ibadan,5/17/2024 10:23,0,0,0,1,3
+129153,Airtime/Data,Retail,Visa,Lagos,3/10/2024 1:59,0,0,1,1,1
+283607,Hospital,Entertainment,Amex,Kano,5/4/2024 18:47,0,0,0,1,3
+495064,Jumia,Travel,MasterCard,Enugu,1/8/2024 19:47,0,1,0,1,2
+8513,Hospital,Healthcare,Amex,Uyo,6/20/2024 15:00,0,0,0,1,3
+457568,Jumia,Entertainment,Verve,Jos,2/24/2024 5:03,0,1,1,1,0
+122249,FuelStation,Education,Visa,Jos,3/16/2024 17:09,0,0,0,0,1
+319042,Konga,Healthcare,Amex,Abuja,5/17/2024 23:02,0,1,0,1,3
+411244,Airtime/Data,Travel,MasterCard,Jos,4/26/2024 0:03,0,1,1,1,2
+59911,Electronics,Insurance,Visa,Benin City,3/6/2024 16:10,0,0,0,1,1
+256539,Electronics,Bills,Visa,Port Harcourt,1/10/2024 5:19,0,0,1,1,1
+51257,Electronics,Food,Visa,Kaduna,6/12/2024 1:33,0,0,1,1,1
+338334,Airtime/Data,Food,Amex,Uyo,5/4/2024 6:17,0,1,0,1,3
+175876,Supermarket,Food,Visa,Kano,5/6/2024 1:37,0,0,1,2,1
+393290,Konga,Healthcare,MasterCard,Ibadan,5/17/2024 7:12,0,1,0,1,2
+34071,Electronics,Food,Visa,Enugu,6/8/2024 3:05,0,0,1,1,1
+180729,Supermarket,Healthcare,Visa,Abuja,3/30/2024 10:14,0,0,0,2,1
+238807,Airtime/Data,Retail,Visa,Enugu,2/15/2024 6:12,0,0,0,1,1
+108912,FuelStation,Healthcare,Verve,Kano,5/5/2024 17:56,0,0,0,0,0
+221737,Airtime/Data,Food,Verve,Port Harcourt,3/11/2024 19:09,0,0,0,1,0
+385063,Hospital,Entertainment,Verve,Lagos,2/5/2024 23:07,0,1,0,1,0
+207275,Electronics,Insurance,Verve,Enugu,4/13/2024 6:27,0,0,0,1,0
+29484,FuelStation,Insurance,Visa,Abuja,3/8/2024 13:20,0,0,0,0,1
+25288,Konga,Entertainment,MasterCard,Jos,1/31/2024 20:46,0,0,0,1,2
+62001,TravelAgency,Entertainment,MasterCard,Kaduna,1/3/2024 18:03,0,0,0,3,2
+152382,FuelStation,Insurance,Visa,Enugu,2/25/2024 11:30,0,0,0,0,1
+83001,Hospital,Education,Amex,Abuja,1/11/2024 14:55,0,0,0,1,3
+113538,Konga,Retail,Amex,Kano,5/31/2024 15:33,1,0,0,1,3
+126675,TravelAgency,Education,Visa,Kaduna,4/25/2024 1:37,0,0,1,3,1

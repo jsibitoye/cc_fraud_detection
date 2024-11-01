@@ -1,0 +1,19 @@
+Best Model: GradientBoosting
+
+Test Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.66      0.67     22635
+           1       0.57      0.59      0.58     17365
+
+    accuracy                           0.63     40000
+   macro avg       0.62      0.63      0.63     40000
+weighted avg       0.63      0.63      0.63     40000
+
+Confusion Matrix:
+[[14873  7762]
+ [ 7035 10330]]
+ROC-AUC: 0.6609
+PR-AUC: 0.5749
+Fraud Detection Metrics (class=1):
+Precision: 0.571, Recall: 0.5949, F1: 0.5827

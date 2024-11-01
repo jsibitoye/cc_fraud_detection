@@ -1,0 +1,19 @@
+Best Model: LightGBM
+
+Test Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.02      0.04     47500
+           1       0.05      0.98      0.09      2500
+
+    accuracy                           0.07     50000
+   macro avg       0.50      0.50      0.07     50000
+weighted avg       0.90      0.07      0.04     50000
+
+Confusion Matrix:
+[[  894 46606]
+ [   53  2447]]
+ROC-AUC: 0.5017
+PR-AUC: 0.0500
+Fraud Metrics:
+Precision: 0.0499, Recall: 0.9788, F1: 0.0949

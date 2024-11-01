@@ -1,0 +1,135 @@
+====================== Model Evaluation ======================
+
+=== LogisticRegression ===
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     47500
+           1       0.00      0.00      0.00      2500
+
+    accuracy                           0.95     50000
+   macro avg       0.47      0.50      0.49     50000
+weighted avg       0.90      0.95      0.93     50000
+
+Confusion Matrix:
+[[47500     0]
+ [ 2500     0]]
+ROC-AUC: 0.4883
+PR-AUC: 0.0482
+Fraud Metrics: Precision=0.0, Recall=0.0, F1=0.0
+Training time: 4.36 sec
+============================================================
+
+=== DecisionTree ===
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     47500
+           1       0.04      0.00      0.01      2500
+
+    accuracy                           0.95     50000
+   macro avg       0.49      0.50      0.49     50000
+weighted avg       0.90      0.95      0.92     50000
+
+Confusion Matrix:
+[[47279   221]
+ [ 2491     9]]
+ROC-AUC: 0.4918
+PR-AUC: 0.0491
+Fraud Metrics: Precision=0.0391, Recall=0.0036, F1=0.0066
+Training time: 6.05 sec
+============================================================
+
+=== RandomForest ===
+              precision    recall  f1-score   support
+
+           0       0.95      0.73      0.83     47500
+           1       0.05      0.26      0.08      2500
+
+    accuracy                           0.71     50000
+   macro avg       0.50      0.49      0.45     50000
+weighted avg       0.90      0.71      0.79     50000
+
+Confusion Matrix:
+[[34670 12830]
+ [ 1853   647]]
+ROC-AUC: 0.4923
+PR-AUC: 0.0491
+Fraud Metrics: Precision=0.048, Recall=0.2588, F1=0.081
+Training time: 8.16 sec
+============================================================
+
+=== GradientBoosting ===
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     47500
+           1       0.00      0.00      0.00      2500
+
+    accuracy                           0.95     50000
+   macro avg       0.47      0.50      0.49     50000
+weighted avg       0.90      0.95      0.93     50000
+
+Confusion Matrix:
+[[47500     0]
+ [ 2500     0]]
+ROC-AUC: 0.4934
+PR-AUC: 0.0487
+Fraud Metrics: Precision=0.0, Recall=0.0, F1=0.0
+Training time: 947.57 sec
+============================================================
+
+=== XGBoost ===
+              precision    recall  f1-score   support
+
+           0       0.94      0.00      0.00     47500
+           1       0.05      1.00      0.10      2500
+
+    accuracy                           0.05     50000
+   macro avg       0.49      0.50      0.05     50000
+weighted avg       0.89      0.05      0.01     50000
+
+Confusion Matrix:
+[[   44 47456]
+ [    3  2497]]
+ROC-AUC: 0.4971
+PR-AUC: 0.0493
+Fraud Metrics: Precision=0.05, Recall=0.9988, F1=0.0952
+Training time: 95.34 sec
+============================================================
+
+=== LightGBM ===
+              precision    recall  f1-score   support
+
+           0       0.94      0.02      0.04     47500
+           1       0.05      0.98      0.09      2500
+
+    accuracy                           0.07     50000
+   macro avg       0.50      0.50      0.07     50000
+weighted avg       0.90      0.07      0.04     50000
+
+Confusion Matrix:
+[[  894 46606]
+ [   53  2447]]
+ROC-AUC: 0.5017
+PR-AUC: 0.0500
+Fraud Metrics: Precision=0.0499, Recall=0.9788, F1=0.0949
+Training time: 29.29 sec
+============================================================
+
+=== CatBoost ===
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00     47500
+           1       0.05      1.00      0.10      2500
+
+    accuracy                           0.05     50000
+   macro avg       0.53      0.50      0.05     50000
+weighted avg       0.95      0.05      0.01     50000
+
+Confusion Matrix:
+[[   23 47477]
+ [    0  2500]]
+ROC-AUC: 0.4963
+PR-AUC: 0.0494
+Fraud Metrics: Precision=0.05, Recall=1.0, F1=0.0953
+Training time: 250.74 sec
+============================================================
+

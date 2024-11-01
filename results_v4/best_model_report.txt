@@ -1,0 +1,19 @@
+Best Model: CatBoost
+
+Test Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99     40000
+           1       0.92      0.97      0.95     10000
+
+    accuracy                           0.98     50000
+   macro avg       0.96      0.97      0.97     50000
+weighted avg       0.98      0.98      0.98     50000
+
+Confusion Matrix:
+[[39175   825]
+ [  296  9704]]
+ROC-AUC: 0.9970
+PR-AUC: 0.9922
+Fraud Metrics:
+Precision: 0.9216, Recall: 0.9704, F1: 0.9454
