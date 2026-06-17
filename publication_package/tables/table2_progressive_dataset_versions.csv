@@ -1,0 +1,6 @@
+Version,Rows,Columns,Added Feature Group,Purpose
+v1,"499,985",8,"Baseline transaction, categorical, and time fields",Baseline comparator
+v2,"499,985",11,"High-amount flag, night-transaction flag, subcategory",Assess simple risk indicators
+v3,"499,985",13,Merchant-risk and card-risk indicators,Assess proxy risk enrichment
+v4,"499,985",21,Amount and time engineered features,Assess advanced engineered predictors
+v5,"499,985",23,Night-high-amount flag and composite risk score,Assess full engineered feature set

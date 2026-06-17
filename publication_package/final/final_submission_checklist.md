@@ -1,0 +1,22 @@
+# Final Submission Checklist
+
+- [ ] Author names added
+- [ ] Affiliations added
+- [ ] Corresponding author marked
+- [ ] ORCID added if required
+- [ ] Venue selected
+- [ ] IEEE template confirmed
+- [ ] Page limit checked
+- [x] Abstract word count checked
+- [x] Keywords checked
+- [x] Figures checked
+- [x] Tables checked
+- [x] References checked
+- [x] Data availability checked
+- [x] Ethics statement checked
+- [x] Funding statement checked
+- [x] Competing interests checked
+- [x] Supplementary materials checked
+- [ ] External validation limitation accepted
+- [ ] Statistical robustness limitation accepted
+- [x] PDF visually reviewed

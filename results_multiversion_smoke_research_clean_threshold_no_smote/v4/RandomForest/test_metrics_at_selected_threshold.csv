@@ -1,0 +1,2 @@
+threshold,accuracy,precision,recall,f1,tn,fp,fn,tp
+0.65,0.9575,0.9608938547486033,0.688,0.8018648018648019,1743,7,78,172

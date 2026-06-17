@@ -1,0 +1,8 @@
+table,file,exists,csv_rows,csv_cols,word_table_present,word_cells_match_csv,caption_present
+TABLE I,tables\table1_dataset_summary.csv,True,13,2,True,True,True
+TABLE II,tables\table2_progressive_dataset_versions.csv,True,6,5,True,True,True
+TABLE III,tables\table3_experimental_configuration.csv,True,12,2,True,True,True
+TABLE IV,tables\table4_best_default_no_smote.csv,True,6,6,True,True,True
+TABLE V,tables\table5_best_default_smote.csv,True,6,6,True,True,True
+TABLE VI,tables\table6_threshold_tuned_comparison.csv,True,6,7,True,True,True
+TABLE VII,tables\table7_summary_of_main_findings.csv,True,8,3,True,True,True

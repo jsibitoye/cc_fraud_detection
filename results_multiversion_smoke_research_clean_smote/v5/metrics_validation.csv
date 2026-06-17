@@ -1,0 +1,6 @@
+version,setup,metric_split,model_name,training_time_sec,accuracy,fraud_precision,fraud_recall,fraud_f1,macro_f1,weighted_f1,roc_auc,pr_auc,best_params
+v5,SMOTE,validation,XGBoost,0.71,0.9675,0.95122,0.78,0.857143,0.919404,0.966099,0.932283,0.869419,"{""clf__subsample"": 0.8, ""clf__reg_lambda"": 2.0, ""clf__n_estimators"": 80, ""clf__min_child_weight"": 3, ""clf__max_depth"": 5, ""clf__learning_rate"": 0.05, ""clf__gamma"": 0.0, ""clf__colsample_bytree"": 0.8}"
+v5,SMOTE,validation,DecisionTree,1.81,0.9665,0.942029,0.78,0.853392,0.917241,0.965127,0.920354,0.850857,"{""clf__min_samples_split"": 2, ""clf__min_samples_leaf"": 1, ""clf__max_depth"": 8, ""clf__criterion"": ""entropy"", ""clf__ccp_alpha"": 0.001}"
+v5,SMOTE,validation,RandomForest,1.04,0.965,0.924528,0.784,0.848485,0.91435,0.963749,0.928263,0.864729,"{""clf__n_estimators"": 80, ""clf__min_samples_split"": 2, ""clf__min_samples_leaf"": 1, ""clf__max_features"": ""sqrt"", ""clf__max_depth"": 8, ""clf__bootstrap"": true}"
+v5,SMOTE,validation,CatBoost,0.72,0.964,0.919811,0.78,0.844156,0.911903,0.962713,0.934205,0.866461,"{""clf__learning_rate"": 0.1, ""clf__l2_leaf_reg"": 3, ""clf__iterations"": 50, ""clf__depth"": 4, ""clf__border_count"": 64}"
+v5,SMOTE,validation,LogisticRegression,0.46,0.9205,0.644444,0.812,0.718584,0.836148,0.924321,0.926496,0.849815,"{""clf__C"": 1.0}"

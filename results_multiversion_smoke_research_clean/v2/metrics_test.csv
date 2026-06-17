@@ -1,0 +1,6 @@
+version,setup,metric_split,model_name,training_time_sec,accuracy,fraud_precision,fraud_recall,fraud_f1,macro_f1,weighted_f1,roc_auc,pr_auc,best_params
+v2,No-SMOTE,test,XGBoost,0.46,0.942,0.79646,0.72,0.756303,0.861693,0.940735,0.894458,0.799617,"{""clf__subsample"": 0.8, ""clf__reg_lambda"": 2.0, ""clf__n_estimators"": 80, ""clf__min_child_weight"": 3, ""clf__max_depth"": 5, ""clf__learning_rate"": 0.05, ""clf__gamma"": 0.0, ""clf__colsample_bytree"": 0.8}"
+v2,No-SMOTE,test,RandomForest,0.77,0.9425,0.822967,0.688,0.749455,0.858489,0.940265,0.886367,0.79428,"{""clf__n_estimators"": 80, ""clf__min_samples_split"": 2, ""clf__min_samples_leaf"": 1, ""clf__max_features"": ""sqrt"", ""clf__max_depth"": 8, ""clf__bootstrap"": true}"
+v2,No-SMOTE,test,CatBoost,7.53,0.931,0.733333,0.704,0.718367,0.839526,0.930394,0.896158,0.790358,"{""learning_rate"": 0.1, ""l2_leaf_reg"": 3, ""iterations"": 50, ""depth"": 4, ""border_count"": 64}"
+v2,No-SMOTE,test,DecisionTree,0.18,0.9005,0.581994,0.724,0.645276,0.793705,0.905027,0.890183,0.755577,"{""clf__min_samples_split"": 20, ""clf__min_samples_leaf"": 8, ""clf__max_depth"": 4, ""clf__criterion"": ""gini"", ""clf__ccp_alpha"": 0.001}"
+v2,No-SMOTE,test,LogisticRegression,0.23,0.8735,0.495935,0.732,0.591276,0.758223,0.883433,0.869079,0.764376,"{""clf__C"": 0.1}"

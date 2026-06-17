@@ -31,9 +31,7 @@ except ImportError:
     EXTRA_MODELS_AVAILABLE = False
 
 
-# ===============================
 # Load Data
-# ===============================
 import csv
 
 def load_data(file_path: str) -> pd.DataFrame:
@@ -61,9 +59,7 @@ def load_data(file_path: str) -> pd.DataFrame:
     return df
 
 
-# ===============================
 # Preprocess Data
-# ===============================
 def preprocess_data(df: pd.DataFrame):
     X = df.drop("FraudFlag", axis=1)
     y = df["FraudFlag"]
@@ -85,9 +81,7 @@ def preprocess_data(df: pd.DataFrame):
     return X, y, preprocessor
 
 
-# ===============================
 # Train and Compare Models
-# ===============================
 def train_and_compare(X, y, preprocessor, results_dir):
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=42, stratify=y
@@ -212,9 +206,7 @@ def train_and_compare(X, y, preprocessor, results_dir):
     return best_model, best_name, best_auc, best_test_report, best_cm, best_pr_auc, best_fraud_metrics, best_preprocessor
 
 
-# ===============================
 # Save Best Model
-# ===============================
 def save_best_model(model, preprocessor, name, auc, test_report, cm, pr_auc, fraud_metrics, models_dir, results_dir):
     os.makedirs(models_dir, exist_ok=True)
     os.makedirs(results_dir, exist_ok=True)
@@ -239,9 +231,8 @@ def save_best_model(model, preprocessor, name, auc, test_report, cm, pr_auc, fra
     print(f"[SAVED] Report saved to: {report_path}")
 
 
-# ===============================
 # Main
-# ===============================
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data", type=str, required=True, help="Path to dataset CSV")

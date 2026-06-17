@@ -1,0 +1,52 @@
+SMOTE vs No-SMOTE Comparison Summary
+===================================
+
+Selection basis: each training run selects its model family on the validation split. This comparison uses the selected models' untouched test metrics, ranked by Fraud F1 first, then fraud recall, precision, PR-AUC, ROC-AUC, and training time for practical ties. Accuracy is not used for setup recommendation.
+
+Version v1:
+- No-SMOTE best model: RandomForest (Fraud F1=0.753813, Recall=0.692000, Precision=0.827751)
+- SMOTE best model: XGBoost (Fraud F1=0.790068, Recall=0.700000, Precision=0.906736)
+- SMOTE Fraud F1 delta: 0.036255 (meaningful improvement)
+- SMOTE recall delta: 0.008000; precision delta: 0.078985
+- Winner: SMOTE / XGBoost - SMOTE had higher Fraud F1.
+
+Version v2:
+- No-SMOTE best model: RandomForest (Fraud F1=0.749455, Recall=0.688000, Precision=0.822967)
+- SMOTE best model: XGBoost (Fraud F1=0.791855, Recall=0.700000, Precision=0.911458)
+- SMOTE Fraud F1 delta: 0.042400 (meaningful improvement)
+- SMOTE recall delta: 0.012000; precision delta: 0.088491
+- Winner: SMOTE / XGBoost - SMOTE had higher Fraud F1.
+
+Version v3:
+- No-SMOTE best model: XGBoost (Fraud F1=0.810573, Recall=0.736000, Precision=0.901961)
+- SMOTE best model: XGBoost (Fraud F1=0.836028, Recall=0.724000, Precision=0.989071)
+- SMOTE Fraud F1 delta: 0.025455 (meaningful improvement)
+- SMOTE recall delta: -0.012000; precision delta: 0.087110
+- Winner: SMOTE / XGBoost - SMOTE had higher Fraud F1.
+
+Version v4:
+- No-SMOTE best model: RandomForest (Fraud F1=0.794582, Recall=0.704000, Precision=0.911917)
+- SMOTE best model: XGBoost (Fraud F1=0.835616, Recall=0.732000, Precision=0.973404)
+- SMOTE Fraud F1 delta: 0.041034 (meaningful improvement)
+- SMOTE recall delta: 0.028000; precision delta: 0.061487
+- Winner: SMOTE / XGBoost - SMOTE had higher Fraud F1.
+
+Version v5:
+- No-SMOTE best model: RandomForest (Fraud F1=0.801802, Recall=0.712000, Precision=0.917526)
+- SMOTE best model: XGBoost (Fraud F1=0.826484, Recall=0.724000, Precision=0.962766)
+- SMOTE Fraud F1 delta: 0.024682 (meaningful improvement)
+- SMOTE recall delta: 0.012000; precision delta: 0.045240
+- Winner: SMOTE / XGBoost - SMOTE had higher Fraud F1.
+
+Final Recommended Model/Setup
+-----------------------------
+Version: v3
+Setup: SMOTE
+Model: XGBoost
+Fraud F1: 0.836028
+Fraud Recall: 0.724000
+Fraud Precision: 0.989071
+PR-AUC: 0.824108
+ROC-AUC: 0.910727
+
+Threshold tuning uses validation predictions to choose an operating point and reports that threshold on test predictions.

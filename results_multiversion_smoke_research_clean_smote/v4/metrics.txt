@@ -1,0 +1,229 @@
+====================== Model Evaluation (v4) ======================
+
+Dataset Path: data\dataset_v4.csv
+Rows Used: 10000 of 499985
+Setup: SMOTE
+Quick Mode: True
+Train Rows: 6000
+Validation Rows: 2000
+Test Rows: 2000
+Label Convention: 0 = Legitimate, 1 = Fraud
+Scoring Metric During Tuning: average_precision
+Model Selection Split: validation
+Final Reporting Split: test
+Model Feature Columns: Amount, Merchant, Category, CardType, Location, HighAmountFlag, IsNightTransaction, SubCategory, MerchantRisk, CardRisk, Hour, AmountLog, AmountToCategoryMedian, AmountZScoreByCategory, AmountPercentile
+Excluded Columns: FraudFlag, Time, TransactionID, DayOfWeek, Month, IsWeekend
+Model List: LogisticRegression, DecisionTree, RandomForest, XGBoost, CatBoost
+Model Selection Rule:
+Best model selection prioritizes minority-class fraud detection. Models are first filtered to those within 0.002 Fraud F1 of the best Fraud F1. Within that practical tie, models within 0.003 PR-AUC of the best remaining PR-AUC are kept. Within that tie, models within 0.002 fraud recall of the best remaining recall are kept. Remaining models are ranked by fraud precision, ROC-AUC, then lower training time. Accuracy is reported but is never used for selection.
+
+=== LogisticRegression ===
+[Validation metrics used for model selection]
+              precision    recall  f1-score   support
+
+  Legitimate       0.97      0.94      0.95      1750
+       Fraud       0.64      0.81      0.72       250
+
+    accuracy                           0.92      2000
+   macro avg       0.81      0.87      0.83      2000
+weighted avg       0.93      0.92      0.92      2000
+
+Confusion Matrix:
+[[1638  112]
+ [  48  202]]
+Fraud Precision: 0.643312
+Fraud Recall: 0.808000
+Fraud F1: 0.716312
+ROC-AUC: 0.926480
+PR-AUC: 0.849182
+Training Time (sec): 0.42
+Best Params: {"clf__C": 1.0}
+
+[Final untouched test metrics]
+              precision    recall  f1-score   support
+
+  Legitimate       0.96      0.94      0.95      1750
+       Fraud       0.62      0.74      0.67       250
+
+    accuracy                           0.91      2000
+   macro avg       0.79      0.84      0.81      2000
+weighted avg       0.92      0.91      0.91      2000
+
+Confusion Matrix:
+[[1637  113]
+ [  66  184]]
+Fraud Precision: 0.619529
+Fraud Recall: 0.736000
+Fraud F1: 0.672761
+ROC-AUC: 0.893275
+PR-AUC: 0.797276
+===========================================================================
+
+=== DecisionTree ===
+[Validation metrics used for model selection]
+              precision    recall  f1-score   support
+
+  Legitimate       0.97      0.99      0.98      1750
+       Fraud       0.94      0.78      0.85       250
+
+    accuracy                           0.97      2000
+   macro avg       0.96      0.89      0.92      2000
+weighted avg       0.97      0.97      0.97      2000
+
+Confusion Matrix:
+[[1738   12]
+ [  55  195]]
+Fraud Precision: 0.942029
+Fraud Recall: 0.780000
+Fraud F1: 0.853392
+ROC-AUC: 0.920354
+PR-AUC: 0.850857
+Training Time (sec): 0.34
+Best Params: {"clf__min_samples_split": 2, "clf__min_samples_leaf": 1, "clf__max_depth": 8, "clf__criterion": "entropy", "clf__ccp_alpha": 0.001}
+
+[Final untouched test metrics]
+              precision    recall  f1-score   support
+
+  Legitimate       0.96      0.99      0.98      1750
+       Fraud       0.95      0.72      0.82       250
+
+    accuracy                           0.96      2000
+   macro avg       0.95      0.86      0.90      2000
+weighted avg       0.96      0.96      0.96      2000
+
+Confusion Matrix:
+[[1740   10]
+ [  70  180]]
+Fraud Precision: 0.947368
+Fraud Recall: 0.720000
+Fraud F1: 0.818182
+ROC-AUC: 0.899080
+PR-AUC: 0.800695
+===========================================================================
+
+=== RandomForest ===
+[Validation metrics used for model selection]
+              precision    recall  f1-score   support
+
+  Legitimate       0.97      0.99      0.98      1750
+       Fraud       0.95      0.78      0.86       250
+
+    accuracy                           0.97      2000
+   macro avg       0.96      0.89      0.92      2000
+weighted avg       0.97      0.97      0.97      2000
+
+Confusion Matrix:
+[[1740   10]
+ [  55  195]]
+Fraud Precision: 0.951220
+Fraud Recall: 0.780000
+Fraud F1: 0.857143
+ROC-AUC: 0.926541
+PR-AUC: 0.863549
+Training Time (sec): 0.87
+Best Params: {"clf__n_estimators": 80, "clf__min_samples_split": 2, "clf__min_samples_leaf": 1, "clf__max_features": "sqrt", "clf__max_depth": 8, "clf__bootstrap": true}
+
+[Final untouched test metrics]
+              precision    recall  f1-score   support
+
+  Legitimate       0.96      1.00      0.98      1750
+       Fraud       0.96      0.72      0.82       250
+
+    accuracy                           0.96      2000
+   macro avg       0.96      0.86      0.90      2000
+weighted avg       0.96      0.96      0.96      2000
+
+Confusion Matrix:
+[[1742    8]
+ [  70  180]]
+Fraud Precision: 0.957447
+Fraud Recall: 0.720000
+Fraud F1: 0.821918
+ROC-AUC: 0.912400
+PR-AUC: 0.819877
+===========================================================================
+
+=== XGBoost ===
+[Validation metrics used for model selection]
+              precision    recall  f1-score   support
+
+  Legitimate       0.97      0.99      0.98      1750
+       Fraud       0.96      0.78      0.86       250
+
+    accuracy                           0.97      2000
+   macro avg       0.96      0.89      0.92      2000
+weighted avg       0.97      0.97      0.97      2000
+
+Confusion Matrix:
+[[1741    9]
+ [  54  196]]
+Fraud Precision: 0.956098
+Fraud Recall: 0.784000
+Fraud F1: 0.861538
+ROC-AUC: 0.934896
+PR-AUC: 0.871734
+Training Time (sec): 0.61
+Best Params: {"clf__subsample": 0.8, "clf__reg_lambda": 2.0, "clf__n_estimators": 80, "clf__min_child_weight": 3, "clf__max_depth": 5, "clf__learning_rate": 0.05, "clf__gamma": 0.0, "clf__colsample_bytree": 0.8}
+
+[Final untouched test metrics]
+              precision    recall  f1-score   support
+
+  Legitimate       0.96      1.00      0.98      1750
+       Fraud       0.97      0.73      0.84       250
+
+    accuracy                           0.96      2000
+   macro avg       0.97      0.86      0.91      2000
+weighted avg       0.96      0.96      0.96      2000
+
+Confusion Matrix:
+[[1745    5]
+ [  67  183]]
+Fraud Precision: 0.973404
+Fraud Recall: 0.732000
+Fraud F1: 0.835616
+ROC-AUC: 0.907202
+PR-AUC: 0.821647
+===========================================================================
+
+=== CatBoost ===
+[Validation metrics used for model selection]
+              precision    recall  f1-score   support
+
+  Legitimate       0.97      0.99      0.98      1750
+       Fraud       0.95      0.78      0.86       250
+
+    accuracy                           0.97      2000
+   macro avg       0.96      0.89      0.92      2000
+weighted avg       0.97      0.97      0.97      2000
+
+Confusion Matrix:
+[[1740   10]
+ [  55  195]]
+Fraud Precision: 0.951220
+Fraud Recall: 0.780000
+Fraud F1: 0.857143
+ROC-AUC: 0.934301
+PR-AUC: 0.870538
+Training Time (sec): 0.64
+Best Params: {"clf__learning_rate": 0.1, "clf__l2_leaf_reg": 3, "clf__iterations": 50, "clf__depth": 4, "clf__border_count": 64}
+
+[Final untouched test metrics]
+              precision    recall  f1-score   support
+
+  Legitimate       0.96      0.99      0.98      1750
+       Fraud       0.95      0.72      0.82       250
+
+    accuracy                           0.96      2000
+   macro avg       0.96      0.86      0.90      2000
+weighted avg       0.96      0.96      0.96      2000
+
+Confusion Matrix:
+[[1741    9]
+ [  69  181]]
+Fraud Precision: 0.952632
+Fraud Recall: 0.724000
+Fraud F1: 0.822727
+ROC-AUC: 0.909370
+PR-AUC: 0.819270
+===========================================================================
+

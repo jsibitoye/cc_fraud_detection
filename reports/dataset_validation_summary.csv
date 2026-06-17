@@ -1,0 +1,6 @@
+version,path,rows,columns,fraud_count,legitimate_count,fraud_ratio,unique_transaction_ids,status
+v1,data\dataset_v1.csv,499985,8,62500,437485,0.125004,499985,PASS
+v2,data\dataset_v2.csv,499985,11,62500,437485,0.125004,499985,PASS
+v3,data\dataset_v3.csv,499985,13,62500,437485,0.125004,499985,PASS
+v4,data\dataset_v4.csv,499985,21,62500,437485,0.125004,499985,PASS
+v5,data\dataset_v5.csv,499985,23,62500,437485,0.125004,499985,PASS

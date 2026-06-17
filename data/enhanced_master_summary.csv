@@ -1,0 +1,13 @@
+Category,Count,FraudRate,UniqueSubCategories
+Travel,73191,0.123444,7
+Healthcare,67170,0.059238,6
+Electronics,52448,0.337496,6
+Luxury,45837,0.274887,5
+Gaming,40630,0.183805,4
+Groceries,35945,0.067798,5
+Education,32529,0.049279,8
+Insurance,31419,0.050543,4
+Food,31365,0.05012,6
+Entertainment,31351,0.051354,6
+Bills,31187,0.049059,6
+Retail,26913,0.051165,5

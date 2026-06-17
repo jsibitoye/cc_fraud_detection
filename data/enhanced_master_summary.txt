@@ -1,0 +1,55 @@
+Enhanced Master Dataset Summary
+================================================================================
+Input file: data\nigeria_credit_card_master_clean.csv
+Output file: data\nigeria_credit_card_master_enhanced.csv
+Rows: 499985
+Columns: ['Amount', 'Merchant', 'Category', 'CardType', 'Location', 'Time', 'FraudFlag', 'HighAmountFlag', 'IsNightTransaction', 'MerchantRisk', 'CardRisk', 'SubCategory']
+Overall fraud ratio: 0.125004
+
+Category Summary:
+     Category  Count  FraudRate  UniqueSubCategories
+       Travel  73191   0.123444                    7
+   Healthcare  67170   0.059238                    6
+  Electronics  52448   0.337496                    6
+       Luxury  45837   0.274887                    5
+       Gaming  40630   0.183805                    4
+    Groceries  35945   0.067798                    5
+    Education  32529   0.049279                    8
+    Insurance  31419   0.050543                    4
+         Food  31365   0.050120                    6
+Entertainment  31351   0.051354                    6
+        Bills  31187   0.049059                    6
+       Retail  26913   0.051165                    5
+
+Top 30 SubCategories:
+SubCategory
+Pharmacy            16844
+Hospital            16279
+Betting             15380
+Phones              13844
+Fuel                12633
+Flight              12592
+LuxuryStore         11740
+Transport           11220
+Hotel               11205
+LabTest             11127
+Clinic              10750
+RideHailing         10667
+DesignerWear        10663
+Laptops             10605
+OnlineGaming        10518
+HealthInsurance      9843
+Accessories          9801
+VehicleInsurance     9482
+BusTicket            9190
+DailyNeeds           8930
+Jewelry              8795
+Supermarket          8372
+FreshProduce         8356
+InAppPurchase        8343
+Appliances           7920
+TuitionFees          7669
+Perfume              7620
+SchoolFees           7567
+Streaming            7469
+LifeInsurance        7468

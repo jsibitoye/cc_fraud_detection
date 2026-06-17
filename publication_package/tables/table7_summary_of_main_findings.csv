@@ -1,0 +1,8 @@
+Finding,Evidence,Interpretation
+Progressive feature engineering improves fraud-class performance,v3-v5 outperform v1-v2 in fraud-class F1,Feature enrichment changes minority-class separability.
+SMOTE improves default-threshold fraud-class F1,SMOTE selected models outperform no-SMOTE selected models in all five versions,The benefit is threshold-dependent.
+Threshold tuning removes most practical SMOTE advantage,Best tuned F1 values differ by less than 0.001 across setups,Operating-point selection is central to deployment interpretation.
+Tree-based methods dominate,"Random Forest, XGBoost, CatBoost, and Decision Tree are selected in final best-model summaries",Nonlinear tabular interactions are important in this dataset.
+Logistic Regression underperforms,No final best model is Logistic Regression,Linear baseline is less competitive for the engineered feature space.
+Strongest versions are practically close,v3-v5 default and tuned results are close,Do not overstate the small differences among v3-v5.
+External validity is limited,No external validation dataset is present,Results apply to the synthetic transaction dataset only.

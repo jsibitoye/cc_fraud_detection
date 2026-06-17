@@ -1,0 +1,12 @@
+Component,Configuration
+Split strategy,Stratified train/validation/test split
+Split ratio,60/20/20
+Training records,"299,991"
+Validation records,"99,997"
+Test records,"99,997"
+Cross-validation,5-fold CV on training split
+Hyperparameter tuning metric,PR-AUC / average precision
+Model-family selection,Validation split
+Final reporting,Untouched test split
+SMOTE placement,"Inside imblearn pipeline, after preprocessing, inside CV folds"
+Excluded model features,"FraudFlag, TransactionID, Time, DayOfWeek, Month, IsWeekend, IsWeekendDerived"

@@ -1,0 +1,13 @@
+Property,Value
+Dataset file,data/research_master_dataset.csv
+Dataset type,Researcher-generated synthetic transaction dataset
+Task,Binary tabular classification
+Target label,FraudFlag
+Total transactions,"499,985"
+Fraud transactions,"62,500"
+Legitimate transactions,"437,485"
+Fraud ratio,12.5004%
+Missing values in final datasets,0
+Exact duplicate rows in final datasets,0
+Duplicate TransactionID values in final datasets,0
+Language-processing features,Not present

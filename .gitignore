@@ -1,5 +1,28 @@
 .venv/
+.venv*/
 __pycache__/
 *.pyc
+
+# Local/generated model artifacts
+*.joblib
+*.pkl
+*.pickle
+*.cbm
 models/
-reports/
+models_*/
+models_test/
+catboost_info/
+
+# Large local archives and stale run snapshots kept on disk only
+archive/
+.old/
+data/archive/
+
+# Generated cache/build clutter
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Temporary Office lock files
+~$*.docx
+~$*.xlsx

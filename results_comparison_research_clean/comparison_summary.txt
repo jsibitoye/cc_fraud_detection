@@ -1,0 +1,52 @@
+SMOTE vs No-SMOTE Comparison Summary
+===================================
+
+Selection basis: each training run selects its model family on the validation split. This comparison uses the selected models' untouched test metrics, ranked by Fraud F1 first, then fraud recall, precision, PR-AUC, ROC-AUC, and training time for practical ties. Accuracy is not used for setup recommendation.
+
+Version v1:
+- No-SMOTE best model: XGBoost (Fraud F1=0.777175, Recall=0.750160, Precision=0.806208)
+- SMOTE best model: DecisionTree (Fraud F1=0.817996, Recall=0.704000, Precision=0.976043)
+- SMOTE Fraud F1 delta: 0.040821 (meaningful improvement)
+- SMOTE recall delta: -0.046160; precision delta: 0.169835
+- Winner: SMOTE / DecisionTree - SMOTE had higher Fraud F1.
+
+Version v2:
+- No-SMOTE best model: XGBoost (Fraud F1=0.778557, Recall=0.750000, Precision=0.809376)
+- SMOTE best model: RandomForest (Fraud F1=0.817089, Recall=0.715280, Precision=0.952690)
+- SMOTE Fraud F1 delta: 0.038532 (meaningful improvement)
+- SMOTE recall delta: -0.034720; precision delta: 0.143314
+- Winner: SMOTE / RandomForest - SMOTE had higher Fraud F1.
+
+Version v3:
+- No-SMOTE best model: CatBoost (Fraud F1=0.841437, Recall=0.773920, Precision=0.921860)
+- SMOTE best model: RandomForest (Fraud F1=0.861846, Recall=0.758080, Precision=0.998525)
+- SMOTE Fraud F1 delta: 0.020409 (meaningful improvement)
+- SMOTE recall delta: -0.015840; precision delta: 0.076665
+- Winner: SMOTE / RandomForest - SMOTE had higher Fraud F1.
+
+Version v4:
+- No-SMOTE best model: DecisionTree (Fraud F1=0.850685, Recall=0.767760, Precision=0.953692)
+- SMOTE best model: CatBoost (Fraud F1=0.861644, Recall=0.757040, Precision=0.999789)
+- SMOTE Fraud F1 delta: 0.010959 (meaningful improvement)
+- SMOTE recall delta: -0.010720; precision delta: 0.046097
+- Winner: SMOTE / CatBoost - SMOTE had higher Fraud F1.
+
+Version v5:
+- No-SMOTE best model: RandomForest (Fraud F1=0.848045, Recall=0.771280, Precision=0.941780)
+- SMOTE best model: CatBoost (Fraud F1=0.861735, Recall=0.757120, Precision=0.999894)
+- SMOTE Fraud F1 delta: 0.013690 (meaningful improvement)
+- SMOTE recall delta: -0.014160; precision delta: 0.058114
+- Winner: SMOTE / CatBoost - SMOTE had higher Fraud F1.
+
+Final Recommended Model/Setup
+-----------------------------
+Version: v3
+Setup: SMOTE
+Model: RandomForest
+Fraud F1: 0.861846
+Fraud Recall: 0.758080
+Fraud Precision: 0.998525
+PR-AUC: 0.855235
+ROC-AUC: 0.930610
+
+Threshold tuning uses validation predictions to choose an operating point and reports that threshold on test predictions.

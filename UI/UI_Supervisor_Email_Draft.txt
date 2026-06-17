@@ -1,0 +1,14 @@
+Subject: Research Draft Submitted for Supervisor Review
+
+Dear [Supervisor Name],
+
+I hope you are well.
+
+Please find attached my full research draft for your review. The study focuses on progressive feature engineering and imbalanced machine learning for credit card fraud detection using a researcher-generated synthetic transaction dataset.
+
+I would be grateful for your corrections, comments, and guidance on the methodology, results interpretation, structure, and areas that require strengthening before final submission.
+
+Thank you very much for your time and support.
+
+Yours sincerely,
+[Student Name]

@@ -1,0 +1,6 @@
+Version,No-SMOTE Model,No-SMOTE Threshold,No-SMOTE F1,SMOTE Model,SMOTE Threshold,SMOTE F1
+v1,RandomForest,0.80,0.819141,CatBoost,0.44,0.818983
+v2,XGBoost,0.83,0.818759,XGBoost,0.43,0.818828
+v3,XGBoost,0.82,0.861660,XGBoost,0.51,0.861611
+v4,DecisionTree,0.76,0.861826,XGBoost,0.47,0.861443
+v5,RandomForest,0.80,0.862030,XGBoost,0.45,0.861520

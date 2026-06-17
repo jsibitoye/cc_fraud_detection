@@ -1,0 +1,6 @@
+version,no_smote_best_model,smote_best_model,winning_setup,winning_model,fraud_f1_delta_smote_minus_no_smote,fraud_recall_delta_smote_minus_no_smote,fraud_precision_delta_smote_minus_no_smote,smote_improved_fraud_f1,smote_improved_fraud_recall,smote_hurt_precision,effect_size,rationale
+v1,RandomForest,XGBoost,SMOTE,XGBoost,0.03625500000000004,0.008000000000000007,0.07898499999999997,True,True,False,meaningful improvement,SMOTE had higher Fraud F1.
+v2,RandomForest,XGBoost,SMOTE,XGBoost,0.04239999999999999,0.01200000000000001,0.08849099999999999,True,True,False,meaningful improvement,SMOTE had higher Fraud F1.
+v3,XGBoost,XGBoost,SMOTE,XGBoost,0.025455000000000005,-0.01200000000000001,0.08711000000000002,True,False,False,meaningful improvement,SMOTE had higher Fraud F1.
+v4,RandomForest,XGBoost,SMOTE,XGBoost,0.041034000000000015,0.028000000000000025,0.06148700000000007,True,True,False,meaningful improvement,SMOTE had higher Fraud F1.
+v5,RandomForest,XGBoost,SMOTE,XGBoost,0.02468199999999998,0.01200000000000001,0.04524000000000006,True,True,False,meaningful improvement,SMOTE had higher Fraud F1.

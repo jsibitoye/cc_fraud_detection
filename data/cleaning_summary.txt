@@ -1,0 +1,20 @@
+Merged Dataset Cleaning Summary
+================================================================================
+Input file: data\nigeria_credit_card_merged_v3_v4_v5.csv
+Output file: data\nigeria_credit_card_master_clean.csv
+Final shape: (499985, 11)
+Fraud ratio: 0.125004
+
+Missing Value Report:
+            column  missing_before  missing_after  filled_count
+            Amount               0              0             0
+          Merchant               0              0             0
+          Category               0              0             0
+          CardType               0              0             0
+          Location               0              0             0
+              Time               0              0             0
+         FraudFlag               0              0             0
+    HighAmountFlag               0              0             0
+IsNightTransaction               0              0             0
+      MerchantRisk               0              0             0
+          CardRisk               0              0             0

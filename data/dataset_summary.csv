@@ -1,0 +1,6 @@
+version,rows,columns,fraud_count,legitimate_count,fraud_ratio,features
+v1,499985,8,62500,437485,0.125004,TransactionID|Amount|Merchant|Category|CardType|Location|Time|FraudFlag
+v2,499985,11,62500,437485,0.125004,TransactionID|Amount|Merchant|Category|CardType|Location|Time|FraudFlag|HighAmountFlag|IsNightTransaction|SubCategory
+v3,499985,13,62500,437485,0.125004,TransactionID|Amount|Merchant|Category|CardType|Location|Time|FraudFlag|HighAmountFlag|IsNightTransaction|SubCategory|MerchantRisk|CardRisk
+v4,499985,21,62500,437485,0.125004,TransactionID|Amount|Merchant|Category|CardType|Location|Time|FraudFlag|HighAmountFlag|IsNightTransaction|SubCategory|MerchantRisk|CardRisk|Hour|DayOfWeek|Month|IsWeekend|AmountLog|AmountToCategoryMedian|AmountZScoreByCategory|AmountPercentile
+v5,499985,23,62500,437485,0.125004,TransactionID|Amount|Merchant|Category|CardType|Location|Time|FraudFlag|HighAmountFlag|IsNightTransaction|SubCategory|MerchantRisk|CardRisk|Hour|DayOfWeek|Month|IsWeekend|AmountLog|AmountToCategoryMedian|AmountZScoreByCategory|AmountPercentile|NightHighAmountFlag|RiskScoreComposite

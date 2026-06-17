@@ -1,0 +1,76 @@
+Best Model: XGBoost
+
+Research Setup:
+Dataset Version: v1
+Dataset Path: data\dataset_v1.csv
+Setup: No-SMOTE
+Quick Mode: False
+Sample Size: Full dataset
+Train Rows: 299991
+Validation Rows: 99997
+Test Rows: 99997
+Model List: LogisticRegression, DecisionTree, RandomForest, XGBoost, CatBoost
+Scoring Metric During Tuning: average_precision
+Model Selection Split: validation
+Final Reporting Split: test
+Model Feature Columns: Amount, Merchant, Category, CardType, Location
+Excluded Columns: FraudFlag, Time, TransactionID
+Label Convention: 0 = Legitimate, 1 = Fraud
+
+Model Selection Rule:
+Best model selection prioritizes minority-class fraud detection. Models are first filtered to those within 0.002 Fraud F1 of the best Fraud F1. Within that practical tie, models within 0.003 PR-AUC of the best remaining PR-AUC are kept. Within that tie, models within 0.002 fraud recall of the best remaining recall are kept. Remaining models are ranked by fraud precision, ROC-AUC, then lower training time. Accuracy is reported but is never used for selection.
+
+Selection Rationale:
+XGBoost was selected because it remained after the tolerance filters for Fraud F1 (best=0.779272, tolerance=0.002), PR-AUC (best among F1-tied models=0.831872, tolerance=0.003), and fraud recall (best among PR-AUC-tied models=0.753840, tolerance=0.002). Among the remaining models, it ranked highest by fraud precision, then ROC-AUC, then lower training time.
+
+Validation Metrics Used For Model Selection:
+Accuracy: 0.946668
+Fraud Precision: 0.807306
+Fraud Recall: 0.753120
+Fraud F1: 0.779272
+ROC-AUC: 0.915067
+PR-AUC: 0.831503
+Training Time (sec): 330.57
+Setup: No-SMOTE
+Best Params: {"clf__subsample": 0.8, "clf__reg_lambda": 0.5, "clf__n_estimators": 200, "clf__min_child_weight": 5, "clf__max_depth": 5, "clf__learning_rate": 0.05, "clf__gamma": 0.0, "clf__colsample_bytree": 0.6}
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Legitimate       0.97      0.97      0.97     87497
+       Fraud       0.81      0.75      0.78     12500
+
+    accuracy                           0.95     99997
+   macro avg       0.89      0.86      0.87     99997
+weighted avg       0.95      0.95      0.95     99997
+
+Confusion Matrix:
+[[85250  2247]
+ [ 3086  9414]]
+
+Final Untouched Test Metrics:
+Accuracy: 0.946228
+Fraud Precision: 0.806208
+Fraud Recall: 0.750160
+Fraud F1: 0.777175
+ROC-AUC: 0.911241
+PR-AUC: 0.826779
+Classification Report:
+              precision    recall  f1-score   support
+
+  Legitimate       0.96      0.97      0.97     87497
+       Fraud       0.81      0.75      0.78     12500
+
+    accuracy                           0.95     99997
+   macro avg       0.89      0.86      0.87     99997
+weighted avg       0.94      0.95      0.95     99997
+
+Confusion Matrix:
+[[85243  2254]
+ [ 3123  9377]]
+
+Limitations:
+- Hyperparameter tuning optimizes average precision using cross-validation within the training split.
+- Final model-family selection uses the validation split and the documented Fraud F1-first rule.
+- Final reported metrics are computed once on the untouched stratified test split.
+- Threshold tuning uses validation predictions and reports the selected operating point on test predictions.

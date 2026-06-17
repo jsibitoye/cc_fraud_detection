@@ -1,0 +1,12 @@
+column,missing_before,missing_after,filled_count
+Amount,0,0,0
+Merchant,0,0,0
+Category,0,0,0
+CardType,0,0,0
+Location,0,0,0
+Time,0,0,0
+FraudFlag,0,0,0
+HighAmountFlag,0,0,0
+IsNightTransaction,0,0,0
+MerchantRisk,0,0,0
+CardRisk,0,0,0

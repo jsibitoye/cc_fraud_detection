@@ -1,0 +1,6 @@
+Version,Best Model,Precision,Recall,Fraud-Class F1,PR-AUC
+v1,DecisionTree,0.9760,0.7040,0.8180,0.8237
+v2,RandomForest,0.9527,0.7153,0.8171,0.8265
+v3,RandomForest,0.9985,0.7581,0.8618,0.8552
+v4,CatBoost,0.9998,0.7570,0.8616,0.8564
+v5,CatBoost,0.9999,0.7571,0.8617,0.8558

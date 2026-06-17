@@ -1,0 +1,24 @@
+SMOTE vs No-SMOTE Comparison Summary
+===================================
+
+Selection basis: each training run selects its model family on the validation split. This comparison uses the selected models' untouched test metrics, ranked by Fraud F1 first, then fraud recall, precision, PR-AUC, ROC-AUC, and training time for practical ties. Accuracy is not used for setup recommendation.
+
+Version v1:
+- No-SMOTE best model: RandomForest (Fraud F1=0.798206, Recall=0.712000, Precision=0.908163)
+- SMOTE best model: XGBoost (Fraud F1=0.810573, Recall=0.736000, Precision=0.901961)
+- SMOTE Fraud F1 delta: 0.012367 (meaningful improvement)
+- SMOTE recall delta: 0.024000; precision delta: -0.006202
+- Winner: SMOTE / XGBoost - SMOTE had higher Fraud F1.
+
+Final Recommended Model/Setup
+-----------------------------
+Version: v1
+Setup: SMOTE
+Model: XGBoost
+Fraud F1: 0.810573
+Fraud Recall: 0.736000
+Fraud Precision: 0.901961
+PR-AUC: 0.817128
+ROC-AUC: 0.893143
+
+Threshold tuning uses validation predictions to choose an operating point and reports that threshold on test predictions.

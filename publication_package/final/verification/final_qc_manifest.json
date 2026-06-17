@@ -1,0 +1,74 @@
+{
+  "overall_pass": true,
+  "checks": [
+    {
+      "name": "manuscript_ieee_final.docx exists",
+      "status": "PASS",
+      "detail": "C:\\Dev\\cc_fraud_detection\\publication_package\\final\\manuscript_ieee_final.docx"
+    },
+    {
+      "name": "manuscript_ieee_final.pdf exists",
+      "status": "PASS",
+      "detail": "C:\\Dev\\cc_fraud_detection\\publication_package\\final\\manuscript_ieee_final.pdf"
+    },
+    {
+      "name": "PDF rendered to page images",
+      "status": "PASS",
+      "detail": "14 pages"
+    },
+    {
+      "name": "abstract under 250 words",
+      "status": "PASS",
+      "detail": "183 words"
+    },
+    {
+      "name": "keyword count is 6 to 8",
+      "status": "PASS",
+      "detail": "8 keywords"
+    },
+    {
+      "name": "all 10 figures exist",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "all 10 figures embedded",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "all 10 figure captions present",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "seven Word tables present",
+      "status": "PASS",
+      "detail": "7 tables"
+    },
+    {
+      "name": "seven table captions present",
+      "status": "PASS",
+      "detail": "7/7"
+    },
+    {
+      "name": "forbidden-string scan",
+      "status": "PASS",
+      "detail": "{}"
+    },
+    {
+      "name": "references present",
+      "status": "PASS",
+      "detail": "48 bracketed citations/references"
+    },
+    {
+      "name": "required final audit files exist",
+      "status": "PASS",
+      "detail": "audit/checklist files"
+    }
+  ],
+  "forbidden_hits": {},
+  "abstract_word_count": 183,
+  "keyword_count": 8,
+  "page_count": 14
+}
